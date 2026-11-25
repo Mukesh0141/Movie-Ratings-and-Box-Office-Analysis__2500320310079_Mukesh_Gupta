@@ -1,23 +1,13 @@
-issue,rule_applied,rows_affected
-Raw rows loaded,Read every row as text first so nothing is changed by pandas,45466
-"Corrupt rows (id is not a number, columns shifted)",Moved to rejected_rows.csv because the values cannot be trusted,3
-Duplicate movie id,Kept the first row per id; the repeats moved to rejected_rows.csv,30
-Status is Rumored / Planned / In Production / Canceled,Moved to rejected_rows.csv because an unreleased movie has no box office,364
-Status is missing,Moved to rejected_rows.csv because release cannot be confirmed,84
-Budget = 0 (means unknown),"Set budget to blank; the movie stays, but is left out of profit and ROI",36130
-Budget between 1 and 999 (data-entry error),Set budget to blank,242
-Revenue = 0 (means unknown),"Set revenue to blank; the movie stays, but is left out of revenue averages",37600
-Revenue between 1 and 999 (data-entry error),Set revenue to blank,152
-Runtime = 0 minutes (impossible),Set runtime to blank,1496
-Rating = 0 with 0 votes (means no rating),Set rating to blank,2840
-Fewer than 10 votes (rating not reliable),Kept the row; set reliable_rating = False so averages can skip it,22173
-Release date missing,Kept the row; release_year stays blank,78
-Title missing,Filled with 'Unknown title' so the row can still be counted,0
-Title has extra or double spaces,Trimmed and collapsed to single spaces,22
-Language missing,Filled with 'unknown',10
-Profit and ROI need both budget and revenue,Calculated profit = revenue - budget and roi = revenue / budget only where both exist,5303
-Genre list empty,Genre set to 'Unknown',2384
-Movie has 2 or more genres (genres stored as text),Split into movie_genres.csv: one row per movie and genre. Genre totals overlap,28216
-Rows written to movies_clean.csv,Final clean rows,44985
-Rows written to rejected_rows.csv,"Removed rows, each with its reason",481
-Check: raw rows = clean rows + rejected rows,Passed,45466
+data_quality_check,count
+Invalid/non-numeric movie IDs removed,3
+Duplicate movie IDs removed,30
+Non-released rows removed,448
+Zero budgets detected,36553
+Zero revenues detected,38032
+"Budgets below $1,000 detected",244
+"Revenues below $1,000 detected",154
+Zero rating with zero votes detected,2896
+Invalid runtimes detected,1574
+Clean movie rows,44985
+Movie-genre links,92628
+Movies with budget and revenue,5303

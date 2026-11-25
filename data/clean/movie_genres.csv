@@ -740,7 +740,7 @@ movie_id,genre
 159185,Drama
 36357,Comedy
 36357,Family
-36357,TV Movie
+36357,Tv Movie
 92769,Horror
 92769,Drama
 28033,Comedy
@@ -1390,7 +1390,7 @@ movie_id,genre
 31504,Comedy
 31504,Family
 41653,Drama
-53185,TV Movie
+53185,Tv Movie
 53185,Drama
 53185,Romance
 53185,Comedy
@@ -3266,7 +3266,7 @@ movie_id,genre
 55146,Foreign
 303693,Crime
 303693,Drama
-303693,TV Movie
+303693,Tv Movie
 12145,Comedy
 12145,Romance
 42424,Action
@@ -5270,7 +5270,7 @@ movie_id,genre
 10377,Drama
 3121,Drama
 3121,Music
-4975,TV Movie
+4975,Tv Movie
 4975,Drama
 37532,Drama
 9713,Drama
@@ -5970,7 +5970,7 @@ movie_id,genre
 22826,Comedy
 1902,Drama
 1902,Thriller
-445590,TV Movie
+445590,Tv Movie
 445590,History
 445590,Documentary
 445590,War
@@ -7850,7 +7850,7 @@ movie_id,genre
 117259,Unknown
 78231,Drama
 78231,Music
-78231,TV Movie
+78231,Tv Movie
 2383,Adventure
 2383,Drama
 2383,Family
@@ -17619,7 +17619,7 @@ movie_id,genre
 21594,Drama
 21594,Thriller
 26976,Drama
-26976,TV Movie
+26976,Tv Movie
 36670,Adventure
 36670,Action
 36670,Thriller
@@ -18511,7 +18511,7 @@ movie_id,genre
 10949,Adventure
 10949,Drama
 10949,Family
-258236,TV Movie
+258236,Tv Movie
 258236,Drama
 809,Adventure
 809,Animation
@@ -18830,7 +18830,7 @@ movie_id,genre
 44691,Drama
 44691,History
 44691,Romance
-44691,TV Movie
+44691,Tv Movie
 44691,War
 23378,Drama
 23378,Music
@@ -20582,7 +20582,7 @@ movie_id,genre
 13187,Animation
 13187,Family
 13187,Comedy
-13187,TV Movie
+13187,Tv Movie
 17102,Horror
 23194,Western
 16850,War
@@ -20766,10 +20766,10 @@ movie_id,genre
 31906,Western
 31767,Drama
 31767,History
-839,TV Movie
+839,Tv Movie
 839,Action
 839,Thriller
-25109,TV Movie
+25109,Tv Movie
 25109,Western
 25109,Comedy
 36194,Drama
@@ -20840,7 +20840,7 @@ movie_id,genre
 38729,Drama
 38729,Foreign
 86889,Horror
-86889,TV Movie
+86889,Tv Movie
 31943,Adventure
 31943,Drama
 31943,Action
@@ -21090,7 +21090,7 @@ movie_id,genre
 23615,Action
 23615,Drama
 23615,Romance
-23615,TV Movie
+23615,Tv Movie
 13633,Crime
 13633,Drama
 13633,Thriller
@@ -21105,7 +21105,7 @@ movie_id,genre
 27679,Adventure
 27679,Comedy
 27679,Crime
-7012,TV Movie
+7012,Tv Movie
 7012,Science Fiction
 7012,Drama
 20545,Comedy
@@ -21181,7 +21181,7 @@ movie_id,genre
 13189,Drama
 13189,Family
 13189,Fantasy
-13189,TV Movie
+13189,Tv Movie
 48677,Adventure
 48677,Action
 48677,Family
@@ -21195,7 +21195,7 @@ movie_id,genre
 1884,Family
 1884,Fantasy
 1884,Science Fiction
-1884,TV Movie
+1884,Tv Movie
 19621,Drama
 19621,Action
 19621,Thriller
@@ -21289,7 +21289,7 @@ movie_id,genre
 65326,Drama
 65326,Romance
 24657,Drama
-53157,TV Movie
+53157,Tv Movie
 53157,Action
 53157,Adventure
 53157,Drama
@@ -21524,7 +21524,7 @@ movie_id,genre
 23438,Family
 215993,Drama
 215993,Crime
-215993,TV Movie
+215993,Tv Movie
 97044,Documentary
 97044,Foreign
 29904,Action
@@ -21758,7 +21758,7 @@ movie_id,genre
 2460,Drama
 2460,Romance
 2460,Science Fiction
-12254,TV Movie
+12254,Tv Movie
 12254,Comedy
 12254,Drama
 12254,Romance
@@ -21868,7 +21868,7 @@ movie_id,genre
 7096,Drama
 7096,Fantasy
 21039,Drama
-19850,TV Movie
+19850,Tv Movie
 19850,Drama
 19850,Comedy
 17263,Action
@@ -21887,12 +21887,12 @@ movie_id,genre
 13428,Crime
 13428,Thriller
 27260,Science Fiction
-27260,TV Movie
+27260,Tv Movie
 11508,Comedy
 11508,Family
 11508,Fantasy
 11508,Thriller
-11508,TV Movie
+11508,Tv Movie
 67899,Drama
 67899,Action
 67899,Comedy
@@ -21971,7 +21971,7 @@ movie_id,genre
 24272,Music
 29587,Music
 29587,Documentary
-29587,TV Movie
+29587,Tv Movie
 3716,Adventure
 3716,Comedy
 3716,Romance
@@ -22175,7 +22175,7 @@ movie_id,genre
 44756,Comedy
 18088,Comedy
 18088,Romance
-31010,TV Movie
+31010,Tv Movie
 31010,Drama
 31010,History
 31010,War
@@ -22733,7 +22733,7 @@ movie_id,genre
 11658,Drama
 11658,History
 11658,War
-20544,TV Movie
+20544,Tv Movie
 20544,Drama
 11401,Documentary
 11401,Music
@@ -22919,7 +22919,7 @@ movie_id,genre
 69234,Horror
 69234,Music
 69234,Romance
-69234,TV Movie
+69234,Tv Movie
 43442,Drama
 43442,Family
 25033,Horror
@@ -23462,7 +23462,7 @@ movie_id,genre
 25283,Comedy
 25283,Drama
 18047,Drama
-18047,TV Movie
+18047,Tv Movie
 15018,Horror
 15018,Thriller
 438,Mystery
@@ -23772,13 +23772,13 @@ movie_id,genre
 36971,Foreign
 50183,Drama
 50183,War
-7342,TV Movie
+7342,Tv Movie
 7342,Drama
 7342,Horror
 45267,Romance
 45267,Fantasy
 45267,Comedy
-33641,TV Movie
+33641,Tv Movie
 33641,Action
 33641,Horror
 33641,Comedy
@@ -23851,7 +23851,7 @@ movie_id,genre
 43003,Documentary
 16250,Drama
 16250,Romance
-16250,TV Movie
+16250,Tv Movie
 16250,Western
 10065,Horror
 10065,Thriller
@@ -23968,7 +23968,7 @@ movie_id,genre
 1566,Drama
 1566,History
 1566,War
-21997,TV Movie
+21997,Tv Movie
 21997,Thriller
 21997,Drama
 21997,History
@@ -24143,7 +24143,7 @@ movie_id,genre
 47945,Drama
 47945,Romance
 47945,Science Fiction
-47945,TV Movie
+47945,Tv Movie
 13935,Drama
 13935,War
 20941,Drama
@@ -24501,7 +24501,7 @@ movie_id,genre
 28201,Comedy
 28201,Drama
 28201,Romance
-28201,TV Movie
+28201,Tv Movie
 18165,Drama
 18165,Thriller
 27292,Action
@@ -24568,7 +24568,7 @@ movie_id,genre
 306323,Drama
 52660,Comedy
 52660,Mystery
-52660,TV Movie
+52660,Tv Movie
 52660,Horror
 52660,Fantasy
 85420,Comedy
@@ -24890,7 +24890,7 @@ movie_id,genre
 1559,Mystery
 1559,Comedy
 1559,Drama
-20674,TV Movie
+20674,Tv Movie
 20674,Action
 20674,Drama
 20674,Thriller
@@ -25413,7 +25413,7 @@ movie_id,genre
 6935,Action
 6935,Crime
 6935,Drama
-20641,TV Movie
+20641,Tv Movie
 20641,Drama
 20641,Romance
 154105,Thriller
@@ -25505,7 +25505,7 @@ movie_id,genre
 44940,Crime
 44940,Mystery
 26782,Drama
-37865,TV Movie
+37865,Tv Movie
 37865,Horror
 37865,Thriller
 27742,Drama
@@ -25652,7 +25652,7 @@ movie_id,genre
 61105,Drama
 61105,Comedy
 61105,Thriller
-31894,TV Movie
+31894,Tv Movie
 31894,Drama
 31894,History
 31894,War
@@ -26250,7 +26250,7 @@ movie_id,genre
 10947,Drama
 10947,Family
 10947,Music
-10947,TV Movie
+10947,Tv Movie
 71769,Unknown
 34787,Fantasy
 29138,Documentary
@@ -26807,7 +26807,7 @@ movie_id,genre
 15374,Comedy
 15374,Family
 15242,Family
-125759,TV Movie
+125759,Tv Movie
 125759,War
 125759,Drama
 300,Comedy
@@ -28656,7 +28656,7 @@ movie_id,genre
 13173,Comedy
 14348,Comedy
 14348,Documentary
-14786,TV Movie
+14786,Tv Movie
 14786,Drama
 14786,Crime
 31058,Drama
@@ -29154,7 +29154,7 @@ movie_id,genre
 14804,Music
 14804,Drama
 111744,Drama
-111744,TV Movie
+111744,Tv Movie
 36328,Crime
 36328,Drama
 23817,Comedy
@@ -29206,7 +29206,7 @@ movie_id,genre
 54318,Fantasy
 54318,Adventure
 54318,Family
-69315,TV Movie
+69315,Tv Movie
 69315,Science Fiction
 69315,Action
 69315,Drama
@@ -29939,7 +29939,7 @@ movie_id,genre
 2454,Fantasy
 12197,Drama
 32684,Thriller
-25527,TV Movie
+25527,Tv Movie
 25527,Drama
 17483,Action
 17483,Drama
@@ -30112,7 +30112,7 @@ movie_id,genre
 13170,Comedy
 14748,Crime
 14748,Drama
-15691,TV Movie
+15691,Tv Movie
 15691,Adventure
 15691,Drama
 15691,Science Fiction
@@ -30267,7 +30267,7 @@ movie_id,genre
 13009,Horror
 13675,Family
 13675,Animation
-13675,TV Movie
+13675,Tv Movie
 33588,Documentary
 16800,Documentary
 56224,History
@@ -30430,7 +30430,7 @@ movie_id,genre
 10898,Animation
 13541,Comedy
 13541,Fantasy
-13541,TV Movie
+13541,Tv Movie
 11910,Drama
 11910,Fantasy
 17245,Horror
@@ -30986,7 +30986,7 @@ movie_id,genre
 158959,Unknown
 44283,Family
 44283,Animation
-42884,TV Movie
+42884,Tv Movie
 42884,Family
 42884,Fantasy
 42884,Music
@@ -31026,7 +31026,7 @@ movie_id,genre
 13655,Drama
 13655,Family
 13655,Music
-13655,TV Movie
+13655,Tv Movie
 13905,Action
 13905,Comedy
 13905,Romance
@@ -31198,7 +31198,7 @@ movie_id,genre
 65502,Thriller
 65502,Drama
 65502,Comedy
-17912,TV Movie
+17912,Tv Movie
 17912,Comedy
 17912,Drama
 17912,Music
@@ -31282,7 +31282,7 @@ movie_id,genre
 52615,Action
 52615,Drama
 52615,Science Fiction
-52615,TV Movie
+52615,Tv Movie
 41966,Horror
 41966,Thriller
 89453,Unknown
@@ -31427,7 +31427,7 @@ movie_id,genre
 20028,Drama
 141971,Thriller
 141971,Mystery
-31047,TV Movie
+31047,Tv Movie
 31047,Drama
 31047,Thriller
 31047,Crime
@@ -31667,7 +31667,7 @@ movie_id,genre
 1977,Mystery
 1977,Horror
 1977,Thriller
-46725,TV Movie
+46725,Tv Movie
 46725,Drama
 13510,Horror
 13510,Thriller
@@ -31782,7 +31782,7 @@ movie_id,genre
 13639,Adventure
 47561,Action
 47561,Adventure
-18884,TV Movie
+18884,Tv Movie
 18884,Drama
 26036,Drama
 434306,Drama
@@ -32094,7 +32094,7 @@ movie_id,genre
 15451,Drama
 15451,Romance
 330711,Drama
-330711,TV Movie
+330711,Tv Movie
 330711,Crime
 82962,Action
 82962,Thriller
@@ -32467,7 +32467,7 @@ movie_id,genre
 26508,Drama
 26508,War
 26508,Documentary
-26508,TV Movie
+26508,Tv Movie
 28677,Action
 28677,Adventure
 28677,Comedy
@@ -32954,7 +32954,7 @@ movie_id,genre
 21208,Horror
 21208,Thriller
 21208,Mystery
-131351,TV Movie
+131351,Tv Movie
 131351,Drama
 16056,Crime
 16056,Drama
@@ -33209,7 +33209,7 @@ movie_id,genre
 85097,Documentary
 164741,Music
 164741,Drama
-164741,TV Movie
+164741,Tv Movie
 12839,Comedy
 15775,Fantasy
 15775,Drama
@@ -33244,8 +33244,8 @@ movie_id,genre
 18568,Foreign
 33314,Drama
 33314,Romance
-33314,TV Movie
-21657,TV Movie
+33314,Tv Movie
+21657,Tv Movie
 21657,Drama
 21657,Mystery
 21657,Romance
@@ -33274,7 +33274,7 @@ movie_id,genre
 15641,Horror
 15641,Thriller
 21955,Comedy
-43303,TV Movie
+43303,Tv Movie
 43303,Drama
 43303,Horror
 43303,Romance
@@ -33313,7 +33313,7 @@ movie_id,genre
 26320,Drama
 41127,Drama
 41127,History
-35203,TV Movie
+35203,Tv Movie
 35203,Drama
 34869,Thriller
 34869,Drama
@@ -33623,7 +33623,7 @@ movie_id,genre
 4786,Drama
 24684,Drama
 24684,Romance
-77246,TV Movie
+77246,Tv Movie
 77246,Drama
 77246,Romance
 63795,Adventure
@@ -33809,7 +33809,7 @@ movie_id,genre
 32928,Comedy
 22947,Drama
 22947,Romance
-141640,TV Movie
+141640,Tv Movie
 168607,Documentary
 13558,Crime
 13558,Documentary
@@ -33828,7 +33828,7 @@ movie_id,genre
 26191,Drama
 23173,Comedy
 23173,Horror
-53985,TV Movie
+53985,Tv Movie
 53985,Animation
 53985,Family
 53985,Comedy
@@ -33956,7 +33956,7 @@ movie_id,genre
 84772,Romance
 84772,Western
 106537,Documentary
-106537,TV Movie
+106537,Tv Movie
 53767,Drama
 18930,Drama
 18930,Action
@@ -33984,7 +33984,7 @@ movie_id,genre
 176273,Unknown
 19851,Drama
 19851,History
-19851,TV Movie
+19851,Tv Movie
 24293,Action
 24293,Drama
 24293,Fantasy
@@ -34619,10 +34619,10 @@ movie_id,genre
 5761,Romance
 57978,Drama
 57978,Comedy
-57978,TV Movie
+57978,Tv Movie
 23999,Comedy
 23999,Drama
-23999,TV Movie
+23999,Tv Movie
 42720,Drama
 17911,Horror
 17911,Science Fiction
@@ -34650,7 +34650,7 @@ movie_id,genre
 15255,Action
 15255,Crime
 15255,Thriller
-71885,TV Movie
+71885,Tv Movie
 71885,Family
 71885,Comedy
 71885,Drama
@@ -34849,7 +34849,7 @@ movie_id,genre
 51022,Drama
 51022,Comedy
 51022,Crime
-31578,TV Movie
+31578,Tv Movie
 31578,Horror
 18670,Comedy
 18670,Action
@@ -35108,7 +35108,7 @@ movie_id,genre
 15360,Mystery
 15360,Horror
 15360,Thriller
-15360,TV Movie
+15360,Tv Movie
 19969,Horror
 19969,Foreign
 85521,Drama
@@ -35138,11 +35138,11 @@ movie_id,genre
 59719,Action
 59719,Animation
 59719,Comedy
-59719,TV Movie
+59719,Tv Movie
 30903,Horror
 30903,Crime
 30903,Mystery
-26623,TV Movie
+26623,Tv Movie
 26623,Action
 26623,Fantasy
 26623,Science Fiction
@@ -35302,7 +35302,7 @@ movie_id,genre
 109572,Action
 109572,Animation
 109572,Comedy
-109572,TV Movie
+109572,Tv Movie
 52637,Drama
 25053,Drama
 104607,Drama
@@ -35388,7 +35388,7 @@ movie_id,genre
 76568,Western
 76568,Comedy
 40855,Documentary
-22488,TV Movie
+22488,Tv Movie
 22488,Action
 22488,Drama
 22488,Family
@@ -35522,7 +35522,7 @@ movie_id,genre
 41110,Romance
 31687,Mystery
 31687,Horror
-20497,TV Movie
+20497,Tv Movie
 20497,Drama
 20497,Family
 12411,Drama
@@ -36060,7 +36060,7 @@ movie_id,genre
 35164,Drama
 45974,Family
 45974,Animation
-45974,TV Movie
+45974,Tv Movie
 45974,Adventure
 45974,Drama
 198308,Comedy
@@ -36177,7 +36177,7 @@ movie_id,genre
 43699,Foreign
 43699,Romance
 43699,Thriller
-45371,TV Movie
+45371,Tv Movie
 45371,Drama
 45371,History
 109970,Drama
@@ -36247,7 +36247,7 @@ movie_id,genre
 113012,Foreign
 108788,Horror
 108788,Fantasy
-108788,TV Movie
+108788,Tv Movie
 140172,Horror
 59231,Drama
 59088,Drama
@@ -36363,7 +36363,7 @@ movie_id,genre
 37834,Comedy
 32395,Drama
 26682,Action
-26682,TV Movie
+26682,Tv Movie
 26682,Drama
 41252,Drama
 41252,Romance
@@ -37010,7 +37010,7 @@ movie_id,genre
 148636,Horror
 31428,Horror
 31428,Mystery
-31428,TV Movie
+31428,Tv Movie
 31428,Thriller
 49813,Drama
 29424,Mystery
@@ -37087,7 +37087,7 @@ movie_id,genre
 33909,Drama
 33909,Crime
 48110,Drama
-121154,TV Movie
+121154,Tv Movie
 121154,Drama
 121154,War
 59572,Comedy
@@ -37191,7 +37191,7 @@ movie_id,genre
 125948,Crime
 125948,Drama
 125948,Thriller
-32021,TV Movie
+32021,Tv Movie
 32021,Horror
 32021,Mystery
 32021,Crime
@@ -37200,7 +37200,7 @@ movie_id,genre
 706,Drama
 30931,Horror
 30931,Mystery
-30931,TV Movie
+30931,Tv Movie
 33009,Comedy
 46198,Comedy
 18178,Mystery
@@ -38257,7 +38257,7 @@ movie_id,genre
 56787,Drama
 56787,Horror
 56787,Thriller
-56787,TV Movie
+56787,Tv Movie
 64212,Drama
 64212,Action
 64212,Thriller
@@ -38288,7 +38288,7 @@ movie_id,genre
 54660,Comedy
 49041,Family
 49041,Comedy
-49041,TV Movie
+49041,Tv Movie
 23830,Drama
 23830,Romance
 55584,Drama
@@ -38658,7 +38658,7 @@ movie_id,genre
 54293,Documentary
 47330,Comedy
 117258,Horror
-117258,TV Movie
+117258,Tv Movie
 293946,Documentary
 56745,Documentary
 133119,Drama
@@ -38843,7 +38843,7 @@ movie_id,genre
 56259,Horror
 114246,Drama
 140527,Music
-140527,TV Movie
+140527,Tv Movie
 140527,Documentary
 45274,Documentary
 39513,Adventure
@@ -39165,7 +39165,7 @@ movie_id,genre
 16179,Thriller
 153041,Documentary
 153041,History
-211331,TV Movie
+211331,Tv Movie
 211331,Drama
 211331,Romance
 45046,Drama
@@ -39301,7 +39301,7 @@ movie_id,genre
 41273,Comedy
 21372,Drama
 54194,Documentary
-89756,TV Movie
+89756,Tv Movie
 89756,Thriller
 46228,Unknown
 30734,Drama
@@ -39594,11 +39594,11 @@ movie_id,genre
 54699,Drama
 54699,Romance
 54699,Thriller
-54699,TV Movie
+54699,Tv Movie
 18033,Drama
 18033,Romance
 18033,Thriller
-18033,TV Movie
+18033,Tv Movie
 92341,Adventure
 92341,Romance
 92341,Drama
@@ -39614,7 +39614,7 @@ movie_id,genre
 62077,Thriller
 62077,Action
 62077,Comedy
-24810,TV Movie
+24810,Tv Movie
 24810,Drama
 24810,Mystery
 24810,Romance
@@ -40047,13 +40047,13 @@ movie_id,genre
 429876,Drama
 55754,Unknown
 61033,Comedy
-23190,TV Movie
+23190,Tv Movie
 23190,Documentary
 47975,Documentary
 65034,Drama
 61546,Mystery
 125233,Drama
-125233,TV Movie
+125233,Tv Movie
 85430,Comedy
 148314,Unknown
 55502,Unknown
@@ -40177,7 +40177,7 @@ movie_id,genre
 61537,Drama
 61537,Mystery
 61537,Thriller
-19434,TV Movie
+19434,Tv Movie
 19434,Drama
 37560,Crime
 37560,Thriller
@@ -40196,7 +40196,7 @@ movie_id,genre
 1482,Drama
 40047,Drama
 40047,Music
-40047,TV Movie
+40047,Tv Movie
 98060,Documentary
 98060,Drama
 63297,Action
@@ -40265,7 +40265,7 @@ movie_id,genre
 4641,Comedy
 4641,Drama
 4641,Family
-4641,TV Movie
+4641,Tv Movie
 16900,Documentary
 66195,Comedy
 66195,Thriller
@@ -40290,7 +40290,7 @@ movie_id,genre
 1771,Adventure
 1771,Science Fiction
 27984,Thriller
-41872,TV Movie
+41872,Tv Movie
 41872,Comedy
 41872,Drama
 41872,Thriller
@@ -40397,7 +40397,7 @@ movie_id,genre
 44117,Action
 44117,Drama
 44117,Science Fiction
-44117,TV Movie
+44117,Tv Movie
 63736,Action
 63736,Adventure
 63736,Fantasy
@@ -40556,7 +40556,7 @@ movie_id,genre
 78381,Thriller
 39806,Drama
 54220,Documentary
-209802,TV Movie
+209802,Tv Movie
 209802,Comedy
 209802,Drama
 51620,Action
@@ -40834,7 +40834,7 @@ movie_id,genre
 79775,Action
 79775,Drama
 79775,Foreign
-79775,TV Movie
+79775,Tv Movie
 246749,Western
 246749,Drama
 86751,Documentary
@@ -40956,7 +40956,7 @@ movie_id,genre
 71689,Animation
 71689,Comedy
 71689,Family
-71689,TV Movie
+71689,Tv Movie
 31167,Thriller
 30867,Documentary
 30867,Music
@@ -41915,7 +41915,7 @@ movie_id,genre
 58574,Crime
 58574,Mystery
 66150,Documentary
-278822,TV Movie
+278822,Tv Movie
 278822,Drama
 54157,Comedy
 26824,Foreign
@@ -42061,7 +42061,7 @@ movie_id,genre
 72997,Romance
 73939,Drama
 13247,Family
-13247,TV Movie
+13247,Tv Movie
 50393,Animation
 50393,Family
 71866,Drama
@@ -42346,7 +42346,7 @@ movie_id,genre
 78698,Romance
 85949,Action
 85949,Science Fiction
-85949,TV Movie
+85949,Tv Movie
 122515,Comedy
 58704,Family
 58704,Action
@@ -42424,7 +42424,7 @@ movie_id,genre
 59961,Thriller
 72570,Drama
 72570,Romance
-63749,TV Movie
+63749,Tv Movie
 63749,Horror
 63749,Thriller
 49354,Horror
@@ -42441,7 +42441,7 @@ movie_id,genre
 25143,Drama
 25143,History
 80379,Comedy
-69266,TV Movie
+69266,Tv Movie
 69266,Drama
 84797,Drama
 84797,Comedy
@@ -42590,7 +42590,7 @@ movie_id,genre
 178595,Unknown
 21634,Drama
 21634,History
-21634,TV Movie
+21634,Tv Movie
 70374,Crime
 70374,Drama
 44053,Documentary
@@ -42785,7 +42785,7 @@ movie_id,genre
 92117,Documentary
 37928,Animation
 37928,Science Fiction
-91010,TV Movie
+91010,Tv Movie
 91010,Drama
 91010,History
 216672,Unknown
@@ -43144,7 +43144,7 @@ movie_id,genre
 242621,Music
 17347,Drama
 43373,Drama
-284694,TV Movie
+284694,Tv Movie
 284694,Drama
 79042,Documentary
 79042,Crime
@@ -43314,7 +43314,7 @@ movie_id,genre
 72197,Family
 72197,Comedy
 85546,Drama
-111839,TV Movie
+111839,Tv Movie
 111839,Drama
 111839,Romance
 26864,Drama
@@ -43561,7 +43561,7 @@ movie_id,genre
 29860,Unknown
 48747,Horror
 48747,Thriller
-48747,TV Movie
+48747,Tv Movie
 13062,Animation
 13062,Family
 13933,Animation
@@ -43591,7 +43591,7 @@ movie_id,genre
 26974,Action
 26974,Drama
 26974,Fantasy
-24729,TV Movie
+24729,Tv Movie
 24729,Drama
 83770,Adventure
 83770,Drama
@@ -43673,7 +43673,7 @@ movie_id,genre
 16059,Drama
 16059,Comedy
 16059,Romance
-52311,TV Movie
+52311,Tv Movie
 52311,Drama
 86980,Comedy
 208988,Documentary
@@ -43694,7 +43694,7 @@ movie_id,genre
 13926,Animation
 40770,Comedy
 40770,Horror
-75810,TV Movie
+75810,Tv Movie
 75810,Crime
 75810,Mystery
 75810,Thriller
@@ -43726,7 +43726,7 @@ movie_id,genre
 31680,Drama
 31680,Foreign
 83191,Adventure
-83191,TV Movie
+83191,Tv Movie
 80035,Comedy
 65997,Comedy
 57215,Comedy
@@ -43752,7 +43752,7 @@ movie_id,genre
 183386,Comedy
 44125,Romance
 44125,Drama
-43580,TV Movie
+43580,Tv Movie
 43580,Animation
 43580,Family
 61015,Documentary
@@ -44036,7 +44036,7 @@ movie_id,genre
 84289,Horror
 84289,Music
 76360,Documentary
-76360,TV Movie
+76360,Tv Movie
 1556,Drama
 118624,Science Fiction
 118624,Fantasy
@@ -44073,16 +44073,16 @@ movie_id,genre
 84340,Comedy
 26556,Comedy
 202043,Crime
-202043,TV Movie
+202043,Tv Movie
 202043,Drama
 216035,Crime
 216035,Drama
-216035,TV Movie
+216035,Tv Movie
 137625,Unknown
 90061,Documentary
 263946,Drama
 263946,Crime
-263946,TV Movie
+263946,Tv Movie
 263946,Mystery
 84334,Documentary
 84334,Music
@@ -44091,7 +44091,7 @@ movie_id,genre
 127521,Thriller
 127521,Action
 127521,Crime
-119698,TV Movie
+119698,Tv Movie
 119698,Adventure
 48034,Comedy
 48034,Drama
@@ -44105,10 +44105,10 @@ movie_id,genre
 263947,Crime
 263947,Drama
 263947,Thriller
-263947,TV Movie
+263947,Tv Movie
 215999,Drama
 215999,Crime
-215999,TV Movie
+215999,Tv Movie
 134012,Drama
 191402,Unknown
 83403,Comedy
@@ -44157,9 +44157,9 @@ movie_id,genre
 84281,Romance
 46493,Drama
 112090,Science Fiction
-85341,TV Movie
+85341,Tv Movie
 85341,Western
-37661,TV Movie
+37661,Tv Movie
 37661,Action
 37661,Drama
 37661,Thriller
@@ -44211,7 +44211,7 @@ movie_id,genre
 24421,Thriller
 82510,Comedy
 117408,History
-117408,TV Movie
+117408,Tv Movie
 96973,Comedy
 96973,Family
 16640,Action
@@ -44238,7 +44238,7 @@ movie_id,genre
 84347,Documentary
 100529,Comedy
 68722,Drama
-85339,TV Movie
+85339,Tv Movie
 85339,Western
 191600,Unknown
 49049,Action
@@ -44398,7 +44398,7 @@ movie_id,genre
 105348,Drama
 110146,Comedy
 110146,Drama
-142585,TV Movie
+142585,Tv Movie
 142585,Drama
 84342,Documentary
 15936,Comedy
@@ -44469,7 +44469,7 @@ movie_id,genre
 15004,Documentary
 15004,Horror
 61372,Comedy
-61372,TV Movie
+61372,Tv Movie
 151232,Comedy
 151232,Drama
 161456,Documentary
@@ -44607,7 +44607,7 @@ movie_id,genre
 288413,Comedy
 98303,Drama
 55327,Documentary
-55327,TV Movie
+55327,Tv Movie
 32904,Horror
 32904,Drama
 32904,Thriller
@@ -44697,7 +44697,7 @@ movie_id,genre
 105942,Action
 85741,Drama
 85741,History
-133557,TV Movie
+133557,Tv Movie
 133557,Drama
 91030,Documentary
 91030,History
@@ -44949,7 +44949,7 @@ movie_id,genre
 50620,Romance
 105586,Documentary
 120676,Comedy
-82099,TV Movie
+82099,Tv Movie
 82099,Comedy
 82099,Romance
 16276,Action
@@ -45151,7 +45151,7 @@ movie_id,genre
 49522,Comedy
 49522,Family
 125504,Comedy
-40900,TV Movie
+40900,Tv Movie
 40900,Comedy
 40900,Family
 38425,Action
@@ -45358,7 +45358,7 @@ movie_id,genre
 26656,Science Fiction
 26656,Thriller
 121147,Comedy
-84636,TV Movie
+84636,Tv Movie
 84636,Drama
 116800,Documentary
 122336,Comedy
@@ -45392,7 +45392,7 @@ movie_id,genre
 116979,Thriller
 66722,Comedy
 66722,Romance
-66722,TV Movie
+66722,Tv Movie
 46280,Drama
 46280,Romance
 28733,Horror
@@ -45448,7 +45448,7 @@ movie_id,genre
 80278,Drama
 86778,Science Fiction
 86778,Mystery
-86778,TV Movie
+86778,Tv Movie
 82695,Drama
 82695,Music
 82695,Romance
@@ -45542,13 +45542,13 @@ movie_id,genre
 22379,Science Fiction
 22379,Adventure
 115400,Documentary
-24446,TV Movie
+24446,Tv Movie
 24446,Comedy
 24446,Romance
 24446,Family
 44244,Comedy
 44244,Music
-44244,TV Movie
+44244,Tv Movie
 41592,Drama
 48490,Science Fiction
 48490,Thriller
@@ -45594,7 +45594,7 @@ movie_id,genre
 85549,Drama
 85549,Foreign
 237983,Drama
-237983,TV Movie
+237983,Tv Movie
 27408,Adventure
 27408,Action
 27408,Drama
@@ -45695,7 +45695,7 @@ movie_id,genre
 48742,Foreign
 115276,Crime
 115276,Thriller
-143247,TV Movie
+143247,Tv Movie
 143247,Drama
 92662,Documentary
 92662,Comedy
@@ -45734,7 +45734,7 @@ movie_id,genre
 92681,Action
 92681,Thriller
 79528,Documentary
-79528,TV Movie
+79528,Tv Movie
 147538,Fantasy
 147538,Animation
 147538,Comedy
@@ -45790,7 +45790,7 @@ movie_id,genre
 105538,Science Fiction
 33331,Comedy
 33331,Family
-31046,TV Movie
+31046,Tv Movie
 31046,Crime
 31046,Drama
 31046,Thriller
@@ -45798,7 +45798,7 @@ movie_id,genre
 30347,Thriller
 30347,Crime
 30347,Mystery
-26114,TV Movie
+26114,Tv Movie
 26114,Drama
 26114,Thriller
 26114,Crime
@@ -45808,7 +45808,7 @@ movie_id,genre
 43263,Thriller
 43263,Crime
 43263,Mystery
-59238,TV Movie
+59238,Tv Movie
 59238,Drama
 59238,Thriller
 59238,Crime
@@ -45848,7 +45848,7 @@ movie_id,genre
 458961,Documentary
 84834,Crime
 84834,Drama
-84834,TV Movie
+84834,Tv Movie
 84834,Thriller
 162678,Unknown
 98357,Thriller
@@ -45979,7 +45979,7 @@ movie_id,genre
 91679,Drama
 129728,Documentary
 215012,Documentary
-109475,TV Movie
+109475,Tv Movie
 109475,History
 109475,War
 146837,Comedy
@@ -46080,7 +46080,7 @@ movie_id,genre
 20302,Documentary
 20302,Family
 34843,Drama
-34843,TV Movie
+34843,Tv Movie
 110398,Drama
 110398,History
 142650,Comedy
@@ -46247,7 +46247,7 @@ movie_id,genre
 103161,Documentary
 59912,Horror
 59912,Foreign
-38510,TV Movie
+38510,Tv Movie
 38510,Horror
 38510,Science Fiction
 38510,Thriller
@@ -46432,14 +46432,14 @@ movie_id,genre
 89185,Comedy
 89185,Drama
 89185,Family
-89185,TV Movie
+89185,Tv Movie
 35558,Comedy
 35558,Romance
-35558,TV Movie
+35558,Tv Movie
 81250,Comedy
 81250,Drama
 81250,Family
-81250,TV Movie
+81250,Tv Movie
 140697,Unknown
 117978,Horror
 117978,Thriller
@@ -46489,14 +46489,14 @@ movie_id,genre
 96088,Documentary
 109425,Action
 109425,Thriller
-107250,TV Movie
+107250,Tv Movie
 107250,Crime
 107250,Drama
 107250,Mystery
 210621,Unknown
 130816,History
 130816,Drama
-134806,TV Movie
+134806,Tv Movie
 134806,Drama
 134806,Western
 134806,Romance
@@ -46566,7 +46566,7 @@ movie_id,genre
 127867,Comedy
 127867,Fantasy
 127867,Thriller
-173153,TV Movie
+173153,Tv Movie
 173153,Drama
 75626,Drama
 75626,Family
@@ -46760,7 +46760,7 @@ movie_id,genre
 117534,Comedy
 24527,Action
 24527,Thriller
-60573,TV Movie
+60573,Tv Movie
 60573,Crime
 60573,Drama
 43314,Action
@@ -46936,7 +46936,7 @@ movie_id,genre
 109669,Drama
 109669,Romance
 109669,War
-109669,TV Movie
+109669,Tv Movie
 25117,Comedy
 66209,Action
 64272,Foreign
@@ -47156,7 +47156,7 @@ movie_id,genre
 116711,Family
 116711,Fantasy
 197467,Action
-197467,TV Movie
+197467,Tv Movie
 197467,Science Fiction
 44357,Documentary
 86282,Documentary
@@ -47167,7 +47167,7 @@ movie_id,genre
 197481,Action
 197481,Drama
 197481,Science Fiction
-197481,TV Movie
+197481,Tv Movie
 54120,Documentary
 152780,Drama
 152780,Mystery
@@ -47177,7 +47177,7 @@ movie_id,genre
 42151,Comedy
 26146,Comedy
 95771,Drama
-55657,TV Movie
+55657,Tv Movie
 55657,Drama
 55657,Romance
 43357,Comedy
@@ -47215,7 +47215,7 @@ movie_id,genre
 80034,Science Fiction
 108235,Drama
 108235,Family
-108235,TV Movie
+108235,Tv Movie
 86843,Documentary
 123103,Horror
 123103,Thriller
@@ -47462,7 +47462,7 @@ movie_id,genre
 126277,Horror
 126277,Thriller
 130358,Drama
-130358,TV Movie
+130358,Tv Movie
 199687,Unknown
 174772,Science Fiction
 174772,Thriller
@@ -47471,7 +47471,7 @@ movie_id,genre
 179826,Thriller
 180050,Drama
 101449,Comedy
-101449,TV Movie
+101449,Tv Movie
 42527,Comedy
 42527,Fantasy
 120303,Mystery
@@ -47532,7 +47532,7 @@ movie_id,genre
 114761,Unknown
 151085,Drama
 72140,Drama
-72140,TV Movie
+72140,Tv Movie
 72140,Comedy
 120892,Comedy
 120892,Drama
@@ -47640,7 +47640,7 @@ movie_id,genre
 199327,History
 126523,Drama
 126523,History
-205321,TV Movie
+205321,Tv Movie
 205321,Horror
 106848,Drama
 61330,Documentary
@@ -47865,7 +47865,7 @@ movie_id,genre
 109729,Thriller
 109729,Drama
 26622,Drama
-26622,TV Movie
+26622,Tv Movie
 77664,Family
 77664,Science Fiction
 205798,Unknown
@@ -47998,7 +47998,7 @@ movie_id,genre
 18851,Horror
 18851,Mystery
 18851,Thriller
-259808,TV Movie
+259808,Tv Movie
 259808,Drama
 97008,Documentary
 59859,Action
@@ -48913,7 +48913,7 @@ movie_id,genre
 55651,Documentary
 19241,Horror
 19241,Thriller
-19241,TV Movie
+19241,Tv Movie
 15866,Comedy
 160897,Horror
 137193,Animation
@@ -49045,7 +49045,7 @@ movie_id,genre
 224746,Drama
 187022,Drama
 124075,Documentary
-193212,TV Movie
+193212,Tv Movie
 193212,Drama
 193212,History
 193212,War
@@ -49391,7 +49391,7 @@ movie_id,genre
 16692,Drama
 16693,Adventure
 16693,Action
-57210,TV Movie
+57210,Tv Movie
 57210,Family
 57210,Drama
 180048,Fantasy
@@ -49467,7 +49467,7 @@ movie_id,genre
 54283,Action
 54283,Drama
 177203,Thriller
-177203,TV Movie
+177203,Tv Movie
 177203,Drama
 177203,History
 159142,Documentary
@@ -49494,7 +49494,7 @@ movie_id,genre
 121636,Drama
 121636,Romance
 238478,Documentary
-26131,TV Movie
+26131,Tv Movie
 26131,Drama
 26131,Romance
 26131,Western
@@ -49593,7 +49593,7 @@ movie_id,genre
 49852,Fantasy
 49852,Action
 49852,Family
-220674,TV Movie
+220674,Tv Movie
 220674,Comedy
 220674,War
 220674,Drama
@@ -49602,7 +49602,7 @@ movie_id,genre
 40059,Drama
 40059,Horror
 40059,Science Fiction
-110548,TV Movie
+110548,Tv Movie
 110548,Thriller
 110548,Action
 38792,Adventure
@@ -49642,7 +49642,7 @@ movie_id,genre
 75300,Action
 160706,Unknown
 116853,Drama
-116853,TV Movie
+116853,Tv Movie
 228331,Drama
 20986,Action
 20986,Adventure
@@ -49665,7 +49665,7 @@ movie_id,genre
 59993,Documentary
 59993,History
 59993,Drama
-59993,TV Movie
+59993,Tv Movie
 114903,Comedy
 29129,Horror
 29129,Foreign
@@ -49790,7 +49790,7 @@ movie_id,genre
 79113,Drama
 79113,Family
 233063,Comedy
-289336,TV Movie
+289336,Tv Movie
 289336,Drama
 222413,Comedy
 69353,Thriller
@@ -50140,7 +50140,7 @@ movie_id,genre
 31334,Drama
 31334,Foreign
 15494,Adventure
-15494,TV Movie
+15494,Tv Movie
 240916,Crime
 240916,Thriller
 54642,Documentary
@@ -50186,11 +50186,11 @@ movie_id,genre
 41374,Horror
 59145,Action
 59145,Thriller
-149206,TV Movie
+149206,Tv Movie
 149206,Drama
 10958,Drama
 10958,Thriller
-10958,TV Movie
+10958,Tv Movie
 118011,Drama
 118011,Romance
 118011,Thriller
@@ -50282,7 +50282,7 @@ movie_id,genre
 126319,Drama
 126319,Family
 111421,Western
-57680,TV Movie
+57680,Tv Movie
 57680,Drama
 57680,Family
 72465,Drama
@@ -50401,7 +50401,7 @@ movie_id,genre
 236399,Drama
 236399,Mystery
 236399,Thriller
-236399,TV Movie
+236399,Tv Movie
 128006,Drama
 128006,Romance
 33280,Crime
@@ -50447,7 +50447,7 @@ movie_id,genre
 118761,Unknown
 177888,Family
 177888,Music
-177888,TV Movie
+177888,Tv Movie
 66892,Adventure
 66892,Fantasy
 66892,Horror
@@ -50681,7 +50681,7 @@ movie_id,genre
 98162,Animation
 142573,Documentary
 83401,Documentary
-13470,TV Movie
+13470,Tv Movie
 13470,Drama
 13470,History
 13470,Western
@@ -50780,7 +50780,7 @@ movie_id,genre
 157336,Adventure
 157336,Drama
 157336,Science Fiction
-159937,TV Movie
+159937,Tv Movie
 159937,Drama
 159937,Mystery
 159937,Thriller
@@ -50793,7 +50793,7 @@ movie_id,genre
 67657,Thriller
 145926,Unknown
 77133,Drama
-254065,TV Movie
+254065,Tv Movie
 254065,Drama
 191515,Documentary
 153652,Drama
@@ -50911,7 +50911,7 @@ movie_id,genre
 242076,Thriller
 47459,Drama
 168245,Drama
-47626,TV Movie
+47626,Tv Movie
 47626,Animation
 47626,Fantasy
 19492,Science Fiction
@@ -51181,7 +51181,7 @@ movie_id,genre
 233841,Documentary
 102855,Documentary
 63143,Documentary
-373745,TV Movie
+373745,Tv Movie
 373745,Thriller
 373745,Drama
 12685,Action
@@ -51696,7 +51696,7 @@ movie_id,genre
 56967,Romance
 48949,Drama
 16931,Action
-36465,TV Movie
+36465,Tv Movie
 36465,Drama
 36465,History
 38281,Science Fiction
@@ -51826,7 +51826,7 @@ movie_id,genre
 260339,Crime
 171795,Documentary
 49514,Action
-272543,TV Movie
+272543,Tv Movie
 272543,Drama
 213270,Documentary
 173151,Unknown
@@ -51843,7 +51843,7 @@ movie_id,genre
 56171,Science Fiction
 166822,Science Fiction
 75950,Comedy
-462788,TV Movie
+462788,Tv Movie
 462788,Drama
 17156,Unknown
 204784,Drama
@@ -51901,7 +51901,7 @@ movie_id,genre
 137698,Drama
 137698,Fantasy
 209249,Comedy
-99312,TV Movie
+99312,Tv Movie
 99312,Drama
 99312,Family
 188161,Comedy
@@ -52537,7 +52537,7 @@ movie_id,genre
 21393,Family
 215962,Comedy
 31896,Comedy
-70476,TV Movie
+70476,Tv Movie
 70476,Drama
 26566,Action
 26566,Comedy
@@ -52591,7 +52591,7 @@ movie_id,genre
 438144,Documentary
 284711,Horror
 284711,Science Fiction
-284711,TV Movie
+284711,Tv Movie
 53865,Drama
 53425,Comedy
 27270,Action
@@ -52639,7 +52639,7 @@ movie_id,genre
 229297,Romance
 61991,Drama
 61991,Comedy
-61050,TV Movie
+61050,Tv Movie
 61050,Drama
 36964,Comedy
 60287,Mystery
@@ -52798,7 +52798,7 @@ movie_id,genre
 56268,Action
 56268,Adventure
 242022,Comedy
-22555,TV Movie
+22555,Tv Movie
 22555,Drama
 22555,Thriller
 22555,Crime
@@ -53513,7 +53513,7 @@ movie_id,genre
 46247,Adventure
 46247,Animation
 46247,Family
-79818,TV Movie
+79818,Tv Movie
 79818,Drama
 79818,Family
 81246,Unknown
@@ -53575,7 +53575,7 @@ movie_id,genre
 35847,Comedy
 256,Drama
 295538,Documentary
-293205,TV Movie
+293205,Tv Movie
 293205,Drama
 293205,Romance
 36072,Animation
@@ -53584,7 +53584,7 @@ movie_id,genre
 228150,Action
 298317,Comedy
 298317,Romance
-298317,TV Movie
+298317,Tv Movie
 266285,Drama
 266285,Western
 75007,Action
@@ -53818,14 +53818,14 @@ movie_id,genre
 17278,Family
 17278,Horror
 268735,Drama
-268735,TV Movie
+268735,Tv Movie
 268735,Comedy
 169066,Comedy
 169066,Crime
 169066,Romance
 149087,Adventure
 149087,Drama
-72270,TV Movie
+72270,Tv Movie
 72270,Drama
 72270,Horror
 22599,Action
@@ -53861,7 +53861,7 @@ movie_id,genre
 32069,Drama
 32069,Comedy
 190173,Drama
-12314,TV Movie
+12314,Tv Movie
 12314,History
 12314,War
 52996,Comedy
@@ -54108,7 +54108,7 @@ movie_id,genre
 64679,Drama
 64679,History
 64679,Romance
-64679,TV Movie
+64679,Tv Movie
 15460,Drama
 15460,Romance
 39213,Comedy
@@ -54589,7 +54589,7 @@ movie_id,genre
 164251,Drama
 88486,Fantasy
 88486,Horror
-197489,TV Movie
+197489,Tv Movie
 197489,Adventure
 197489,Drama
 197489,War
@@ -54659,7 +54659,7 @@ movie_id,genre
 140222,Drama
 140222,Romance
 140222,War
-188538,TV Movie
+188538,Tv Movie
 188538,Romance
 188538,Drama
 186161,Comedy
@@ -54783,7 +54783,7 @@ movie_id,genre
 258086,Mystery
 184061,Crime
 184061,Drama
-184061,TV Movie
+184061,Tv Movie
 261037,Drama
 301566,Comedy
 38459,Crime
@@ -54950,7 +54950,7 @@ movie_id,genre
 48186,Family
 48186,Fantasy
 48186,Horror
-48186,TV Movie
+48186,Tv Movie
 29596,Crime
 29596,Horror
 29596,Mystery
@@ -55024,7 +55024,7 @@ movie_id,genre
 214081,Drama
 214081,Romance
 24047,Science Fiction
-77348,TV Movie
+77348,Tv Movie
 77348,Science Fiction
 81244,Science Fiction
 50291,Science Fiction
@@ -55301,7 +55301,7 @@ movie_id,genre
 212843,Documentary
 79218,Animation
 79218,Family
-79218,TV Movie
+79218,Tv Movie
 105770,Comedy
 105770,Crime
 169860,Documentary
@@ -55381,7 +55381,7 @@ movie_id,genre
 240820,Family
 240820,Drama
 240820,Romance
-240820,TV Movie
+240820,Tv Movie
 289416,Thriller
 289416,Horror
 99879,Documentary
@@ -55395,10 +55395,10 @@ movie_id,genre
 20077,Thriller
 20077,Science Fiction
 171308,Thriller
-171308,TV Movie
+171308,Tv Movie
 86236,Drama
 86236,Thriller
-86236,TV Movie
+86236,Tv Movie
 11616,Adventure
 11616,Action
 11616,Comedy
@@ -55511,7 +55511,7 @@ movie_id,genre
 39195,Thriller
 78247,Horror
 188832,Thriller
-188832,TV Movie
+188832,Tv Movie
 305276,Drama
 305276,Action
 305276,Crime
@@ -55708,10 +55708,10 @@ movie_id,genre
 83007,Western
 32624,Music
 32624,Documentary
-76750,TV Movie
+76750,Tv Movie
 76750,Comedy
 76750,Drama
-29293,TV Movie
+29293,Tv Movie
 29293,Horror
 67314,Adventure
 67314,Drama
@@ -55758,7 +55758,7 @@ movie_id,genre
 137347,Drama
 219043,Unknown
 295144,Drama
-295144,TV Movie
+295144,Tv Movie
 20000,Drama
 20000,Thriller
 20000,Crime
@@ -55948,7 +55948,7 @@ movie_id,genre
 46127,Comedy
 46127,Drama
 46127,Family
-46127,TV Movie
+46127,Tv Movie
 19444,Horror
 42309,Horror
 42309,Thriller
@@ -55961,7 +55961,7 @@ movie_id,genre
 81116,Comedy
 81116,Mystery
 274985,Documentary
-212503,TV Movie
+212503,Tv Movie
 212503,Comedy
 142119,Documentary
 261820,Comedy
@@ -56009,7 +56009,7 @@ movie_id,genre
 51017,Comedy
 51017,Drama
 26540,Animation
-81393,TV Movie
+81393,Tv Movie
 81393,Fantasy
 81393,Comedy
 81393,Romance
@@ -56115,7 +56115,7 @@ movie_id,genre
 16825,Horror
 16825,Mystery
 16825,Thriller
-240906,TV Movie
+240906,Tv Movie
 240906,Drama
 240906,Romance
 240906,Family
@@ -56621,7 +56621,7 @@ movie_id,genre
 241287,Music
 774,Documentary
 163250,Documentary
-163250,TV Movie
+163250,Tv Movie
 261207,Documentary
 37775,Comedy
 37768,Comedy
@@ -56709,7 +56709,7 @@ movie_id,genre
 20693,Foreign
 264048,Drama
 264048,Comedy
-289394,TV Movie
+289394,Tv Movie
 289394,Drama
 289394,History
 107255,Drama
@@ -56741,7 +56741,7 @@ movie_id,genre
 36635,Drama
 37482,Crime
 37482,Drama
-274007,TV Movie
+274007,Tv Movie
 274007,Drama
 50327,Family
 50327,Adventure
@@ -56931,14 +56931,14 @@ movie_id,genre
 146631,Action
 146631,Adventure
 146631,Science Fiction
-38602,TV Movie
+38602,Tv Movie
 38602,Family
 38602,Drama
 30934,Horror
 29919,Comedy
 65762,Comedy
 65762,Romance
-115531,TV Movie
+115531,Tv Movie
 115531,Drama
 253153,Unknown
 68189,Comedy
@@ -56966,7 +56966,7 @@ movie_id,genre
 242452,Drama
 118139,Crime
 118139,Drama
-269165,TV Movie
+269165,Tv Movie
 269165,Drama
 269165,Crime
 185207,Drama
@@ -57018,7 +57018,7 @@ movie_id,genre
 177566,Action
 177566,Fantasy
 113237,Drama
-23178,TV Movie
+23178,Tv Movie
 23178,Drama
 23178,Music
 61550,Family
@@ -57072,7 +57072,7 @@ movie_id,genre
 41275,Science Fiction
 269495,Drama
 269495,Comedy
-229839,TV Movie
+229839,Tv Movie
 229839,Horror
 254188,Horror
 167683,Drama
@@ -57153,7 +57153,7 @@ movie_id,genre
 104606,Action
 186691,Adventure
 258200,Western
-287299,TV Movie
+287299,Tv Movie
 287299,Comedy
 241552,Drama
 90949,Drama
@@ -57161,7 +57161,7 @@ movie_id,genre
 218369,Comedy
 218369,Romance
 76380,Unknown
-102517,TV Movie
+102517,Tv Movie
 102517,Comedy
 125229,Drama
 125229,Action
@@ -57286,7 +57286,7 @@ movie_id,genre
 127413,Unknown
 126929,Documentary
 28486,Thriller
-28486,TV Movie
+28486,Tv Movie
 28486,Drama
 28486,Mystery
 55045,Horror
@@ -57316,7 +57316,7 @@ movie_id,genre
 229221,Comedy
 229221,Music
 58309,Comedy
-263065,TV Movie
+263065,Tv Movie
 263065,Drama
 73313,Drama
 114299,Drama
@@ -57404,7 +57404,7 @@ movie_id,genre
 116232,Romance
 138513,Drama
 138513,Family
-138513,TV Movie
+138513,Tv Movie
 120990,Comedy
 214909,Comedy
 214909,Romance
@@ -57417,7 +57417,7 @@ movie_id,genre
 107999,Romance
 27858,Drama
 27858,War
-63039,TV Movie
+63039,Tv Movie
 63039,Drama
 122192,Action
 122192,Crime
@@ -57451,13 +57451,13 @@ movie_id,genre
 52627,Action
 52627,Adventure
 52627,Science Fiction
-45760,TV Movie
+45760,Tv Movie
 45760,Drama
 45760,Romance
 47963,Drama
 63339,Drama
 63339,Mystery
-63339,TV Movie
+63339,Tv Movie
 44921,Western
 102222,Drama
 102222,Action
@@ -57540,7 +57540,7 @@ movie_id,genre
 85609,Drama
 85609,Crime
 85609,Western
-48358,TV Movie
+48358,Tv Movie
 48358,Fantasy
 48358,Drama
 48358,Family
@@ -57630,7 +57630,7 @@ movie_id,genre
 42303,Comedy
 42303,Crime
 42303,Family
-61168,TV Movie
+61168,Tv Movie
 61168,Comedy
 61168,Romance
 34128,Drama
@@ -57639,7 +57639,7 @@ movie_id,genre
 37404,Action
 37404,Adventure
 37404,Fantasy
-37404,TV Movie
+37404,Tv Movie
 36421,Horror
 86059,Drama
 18920,Comedy
@@ -57705,15 +57705,15 @@ movie_id,genre
 77874,Mystery
 77874,Foreign
 133446,Thriller
-210059,TV Movie
+210059,Tv Movie
 210059,Thriller
 210059,Drama
 210059,Mystery
-240913,TV Movie
+240913,Tv Movie
 240913,Drama
 240913,Mystery
 240913,Thriller
-283105,TV Movie
+283105,Tv Movie
 283105,Drama
 51768,Drama
 58012,Comedy
@@ -57739,7 +57739,7 @@ movie_id,genre
 224937,Comedy
 224937,Romance
 38382,Comedy
-49483,TV Movie
+49483,Tv Movie
 49483,Crime
 49483,Drama
 85429,Drama
@@ -57893,7 +57893,7 @@ movie_id,genre
 37608,Crime
 37608,Drama
 37608,Action
-23816,TV Movie
+23816,Tv Movie
 23816,Action
 23816,Adventure
 23816,Fantasy
@@ -58066,7 +58066,7 @@ movie_id,genre
 74694,Drama
 74694,Family
 1163,Drama
-1163,TV Movie
+1163,Tv Movie
 72032,Western
 45398,Action
 45398,War
@@ -58084,7 +58084,7 @@ movie_id,genre
 53950,Drama
 21533,Adventure
 21533,Fantasy
-21533,TV Movie
+21533,Tv Movie
 37610,Comedy
 62410,Comedy
 62410,Family
@@ -58113,12 +58113,12 @@ movie_id,genre
 75826,Action
 75826,Adventure
 75826,Fantasy
-75826,TV Movie
+75826,Tv Movie
 93077,Thriller
 228245,Thriller
 44811,Horror
 44811,Science Fiction
-44811,TV Movie
+44811,Tv Movie
 14427,Comedy
 14427,Drama
 117120,Horror
@@ -58130,7 +58130,7 @@ movie_id,genre
 49712,Action
 49712,Drama
 49712,Thriller
-53085,TV Movie
+53085,Tv Movie
 53085,Action
 53085,Crime
 53085,Thriller
@@ -58146,7 +58146,7 @@ movie_id,genre
 41235,Horror
 41625,Comedy
 31981,Comedy
-236324,TV Movie
+236324,Tv Movie
 236324,Drama
 236324,Mystery
 44862,Drama
@@ -58184,7 +58184,7 @@ movie_id,genre
 75822,Action
 75822,Adventure
 75822,Fantasy
-75822,TV Movie
+75822,Tv Movie
 107593,Comedy
 33077,Comedy
 33077,Romance
@@ -58192,7 +58192,7 @@ movie_id,genre
 43275,Drama
 43275,Mystery
 178541,Family
-178541,TV Movie
+178541,Tv Movie
 178541,Drama
 150004,Science Fiction
 86382,War
@@ -58316,7 +58316,7 @@ movie_id,genre
 57012,Mystery
 57012,Thriller
 108251,Drama
-108251,TV Movie
+108251,Tv Movie
 43432,Drama
 43432,Foreign
 30861,Foreign
@@ -58366,7 +58366,7 @@ movie_id,genre
 70811,Action
 70811,Adventure
 70811,Fantasy
-70811,TV Movie
+70811,Tv Movie
 14387,Action
 14387,Comedy
 42343,Drama
@@ -58389,7 +58389,7 @@ movie_id,genre
 75834,Action
 75834,Adventure
 75834,Fantasy
-75834,TV Movie
+75834,Tv Movie
 18085,Documentary
 49060,Romance
 49060,Crime
@@ -58423,12 +58423,12 @@ movie_id,genre
 113582,Comedy
 113582,Crime
 113582,Thriller
-96131,TV Movie
+96131,Tv Movie
 96131,Drama
 221144,Unknown
 133148,Drama
 83849,Drama
-83849,TV Movie
+83849,Tv Movie
 98130,Science Fiction
 98130,Drama
 51681,Drama
@@ -58436,18 +58436,18 @@ movie_id,genre
 281215,Drama
 297668,Unknown
 266314,Drama
-266314,TV Movie
+266314,Tv Movie
 69898,Drama
 69898,Music
 129251,Drama
 108012,Unknown
 108259,Drama
 108259,Romance
-263032,TV Movie
+263032,Tv Movie
 263032,Drama
 15759,Drama
 15759,Family
-50299,TV Movie
+50299,Tv Movie
 50299,Drama
 38468,Comedy
 38468,Crime
@@ -58637,7 +58637,7 @@ movie_id,genre
 60139,Thriller
 42182,Horror
 83957,Drama
-69495,TV Movie
+69495,Tv Movie
 69495,Action
 69495,Western
 40824,Drama
@@ -58648,13 +58648,13 @@ movie_id,genre
 227402,Romance
 227402,Drama
 258673,Drama
-258673,TV Movie
+258673,Tv Movie
 63591,Comedy
 63591,Romance
 29799,Science Fiction
 29799,Horror
 29799,Thriller
-257578,TV Movie
+257578,Tv Movie
 257578,Drama
 196862,Romance
 196862,Comedy
@@ -59049,7 +59049,7 @@ movie_id,genre
 87123,Crime
 79730,Drama
 79730,Romance
-39433,TV Movie
+39433,Tv Movie
 39433,Crime
 39433,Drama
 39433,Mystery
@@ -59594,7 +59594,7 @@ movie_id,genre
 82243,Mystery
 82243,Thriller
 108716,Crime
-108716,TV Movie
+108716,Tv Movie
 94881,Comedy
 94881,Drama
 94881,Romance
@@ -59740,7 +59740,7 @@ movie_id,genre
 244580,Drama
 244580,Music
 242675,Documentary
-43721,TV Movie
+43721,Tv Movie
 43721,Comedy
 43721,Drama
 43721,Romance
@@ -59846,7 +59846,7 @@ movie_id,genre
 56275,Music
 215657,Animation
 190946,Unknown
-171292,TV Movie
+171292,Tv Movie
 171292,Crime
 171292,Horror
 171292,Thriller
@@ -59854,7 +59854,7 @@ movie_id,genre
 188392,Comedy
 188392,Animation
 67866,Drama
-67866,TV Movie
+67866,Tv Movie
 24251,Animation
 24251,Comedy
 24251,Family
@@ -59876,16 +59876,16 @@ movie_id,genre
 27850,Family
 27850,Fantasy
 27850,Horror
-27850,TV Movie
+27850,Tv Movie
 34205,Adventure
 34205,Family
 34205,Fantasy
-34205,TV Movie
+34205,Tv Movie
 34560,Adventure
 34560,Comedy
 34560,Family
 34560,Fantasy
-34560,TV Movie
+34560,Tv Movie
 59354,Animation
 105168,Family
 105168,Fantasy
@@ -59908,7 +59908,7 @@ movie_id,genre
 197592,Drama
 197592,Adventure
 197592,Romance
-238090,TV Movie
+238090,Tv Movie
 238090,Drama
 81294,Animation
 81294,Family
@@ -59923,7 +59923,7 @@ movie_id,genre
 84617,Comedy
 157723,Comedy
 157723,Documentary
-157723,TV Movie
+157723,Tv Movie
 13535,Animation
 13535,Horror
 57622,Unknown
@@ -60002,7 +60002,7 @@ movie_id,genre
 16048,Drama
 16048,Romance
 52216,Comedy
-52304,TV Movie
+52304,Tv Movie
 52304,Comedy
 56499,Comedy
 56499,War
@@ -60148,7 +60148,7 @@ movie_id,genre
 250066,Action
 102534,Thriller
 248231,Drama
-321130,TV Movie
+321130,Tv Movie
 321130,Drama
 321130,Science Fiction
 258049,Documentary
@@ -60201,7 +60201,7 @@ movie_id,genre
 89247,Fantasy
 89247,Comedy
 285135,Science Fiction
-285135,TV Movie
+285135,Tv Movie
 63616,Drama
 121828,Action
 46897,Documentary
@@ -60458,7 +60458,7 @@ movie_id,genre
 227719,Thriller
 321594,Comedy
 144183,Comedy
-144183,TV Movie
+144183,Tv Movie
 47868,Science Fiction
 167073,Drama
 167073,Romance
@@ -60665,7 +60665,7 @@ movie_id,genre
 65257,Family
 65257,Thriller
 184143,Western
-184143,TV Movie
+184143,Tv Movie
 74684,Adventure
 74684,Drama
 278468,Animation
@@ -60726,7 +60726,7 @@ movie_id,genre
 155459,Drama
 96243,Thriller
 55032,Comedy
-257605,TV Movie
+257605,Tv Movie
 257605,Drama
 266030,Drama
 302376,Drama
@@ -61038,7 +61038,7 @@ movie_id,genre
 260999,Crime
 136576,Crime
 81332,Family
-81332,TV Movie
+81332,Tv Movie
 81332,Romance
 99332,Documentary
 130948,Action
@@ -61064,7 +61064,7 @@ movie_id,genre
 265226,Drama
 252838,Comedy
 53882,Thriller
-134746,TV Movie
+134746,Tv Movie
 134746,Crime
 134746,Drama
 217197,Documentary
@@ -61187,7 +61187,7 @@ movie_id,genre
 227383,Drama
 227383,Romance
 315049,Comedy
-130805,TV Movie
+130805,Tv Movie
 130805,Drama
 248933,Western
 248933,Drama
@@ -61330,7 +61330,7 @@ movie_id,genre
 259395,Comedy
 152797,Unknown
 55804,Comedy
-291325,TV Movie
+291325,Tv Movie
 291325,Crime
 291325,Comedy
 13611,Documentary
@@ -61398,7 +61398,7 @@ movie_id,genre
 88318,Drama
 88318,Mystery
 88318,Thriller
-88318,TV Movie
+88318,Tv Movie
 277686,Horror
 277686,Thriller
 277686,Crime
@@ -61406,7 +61406,7 @@ movie_id,genre
 326536,Horror
 326536,Fantasy
 315010,Drama
-98554,TV Movie
+98554,Tv Movie
 98554,Documentary
 149347,Documentary
 104644,Horror
@@ -61455,12 +61455,12 @@ movie_id,genre
 42590,Fantasy
 218262,Unknown
 261985,Family
-261985,TV Movie
-54796,TV Movie
+261985,Tv Movie
+54796,Tv Movie
 54796,Drama
 158150,Comedy
 158150,Romance
-158150,TV Movie
+158150,Tv Movie
 121822,Mystery
 257347,Action
 257347,Drama
@@ -61800,7 +61800,7 @@ movie_id,genre
 2963,Comedy
 2963,Fantasy
 2963,Science Fiction
-132426,TV Movie
+132426,Tv Movie
 132426,Drama
 174372,Drama
 174372,Romance
@@ -62105,7 +62105,7 @@ movie_id,genre
 264321,Unknown
 102938,Action
 102938,Drama
-103432,TV Movie
+103432,Tv Movie
 103432,Thriller
 103432,Crime
 103432,Drama
@@ -62215,19 +62215,19 @@ movie_id,genre
 252714,Comedy
 252888,Crime
 252888,Drama
-252888,TV Movie
+252888,Tv Movie
 125990,Drama
 125990,Thriller
 252144,Thriller
 252144,Action
 252144,Drama
-252144,TV Movie
+252144,Tv Movie
 128364,Drama
-97593,TV Movie
+97593,Tv Movie
 97593,Adventure
 82598,Drama
 82598,History
-216153,TV Movie
+216153,Tv Movie
 216153,Drama
 181269,Drama
 260947,Mystery
@@ -62394,7 +62394,7 @@ movie_id,genre
 169656,Comedy
 47412,Science Fiction
 47412,Thriller
-47412,TV Movie
+47412,Tv Movie
 137222,Unknown
 40040,Horror
 40040,Science Fiction
@@ -62404,7 +62404,7 @@ movie_id,genre
 35453,Action
 35453,Adventure
 35453,Science Fiction
-267793,TV Movie
+267793,Tv Movie
 267793,Romance
 267793,Drama
 267793,Thriller
@@ -62443,7 +62443,7 @@ movie_id,genre
 149926,Unknown
 13015,Documentary
 13015,Comedy
-13015,TV Movie
+13015,Tv Movie
 184155,Drama
 32334,Comedy
 32334,Romance
@@ -62648,7 +62648,7 @@ movie_id,genre
 264098,Crime
 264098,Drama
 202639,Drama
-202639,TV Movie
+202639,Tv Movie
 46696,Drama
 46696,War
 29582,War
@@ -62665,12 +62665,12 @@ movie_id,genre
 114116,Documentary
 167262,Western
 204737,Drama
-204737,TV Movie
+204737,Tv Movie
 58920,Comedy
 120520,Mystery
 120520,Comedy
 120520,Crime
-257574,TV Movie
+257574,Tv Movie
 257574,Drama
 241797,Drama
 187482,Mystery
@@ -62682,7 +62682,7 @@ movie_id,genre
 17212,Thriller
 22365,Western
 29254,Comedy
-15674,TV Movie
+15674,Tv Movie
 15674,Fantasy
 15674,Comedy
 15674,Science Fiction
@@ -62911,7 +62911,7 @@ movie_id,genre
 58411,Comedy
 58411,Horror
 251489,Unknown
-38923,TV Movie
+38923,Tv Movie
 38923,Romance
 38923,Comedy
 30467,Comedy
@@ -62949,7 +62949,7 @@ movie_id,genre
 11677,Comedy
 10146,Comedy
 320996,Comedy
-301304,TV Movie
+301304,Tv Movie
 301304,Comedy
 269148,Drama
 269148,Comedy
@@ -62968,7 +62968,7 @@ movie_id,genre
 9803,Comedy
 332356,Drama
 332356,History
-332356,TV Movie
+332356,Tv Movie
 156329,Drama
 156329,Horror
 156329,Romance
@@ -63078,7 +63078,7 @@ movie_id,genre
 215658,Drama
 283708,Drama
 283708,War
-253639,TV Movie
+253639,Tv Movie
 253639,Documentary
 323016,Documentary
 323016,Drama
@@ -63209,7 +63209,7 @@ movie_id,genre
 30034,Crime
 52681,Drama
 44409,Comedy
-265741,TV Movie
+265741,Tv Movie
 265741,Drama
 43789,Comedy
 43789,Romance
@@ -63354,7 +63354,7 @@ movie_id,genre
 325382,Science Fiction
 284470,Documentary
 332759,Action
-332759,TV Movie
+332759,Tv Movie
 228381,Drama
 290043,Crime
 254936,Crime
@@ -63371,7 +63371,7 @@ movie_id,genre
 313074,Drama
 313074,Action
 313074,Adventure
-114003,TV Movie
+114003,Tv Movie
 114003,Action
 114003,Science Fiction
 128207,Drama
@@ -63452,7 +63452,7 @@ movie_id,genre
 73529,Animation
 73529,Action
 73529,Drama
-50794,TV Movie
+50794,Tv Movie
 50794,Comedy
 50794,Family
 111771,Documentary
@@ -63483,7 +63483,7 @@ movie_id,genre
 192712,Drama
 192712,Action
 80530,Drama
-80530,TV Movie
+80530,Tv Movie
 296941,Documentary
 290300,Music
 290300,Adventure
@@ -63846,7 +63846,7 @@ movie_id,genre
 18198,Family
 136215,Animation
 136215,Music
-136215,TV Movie
+136215,Tv Movie
 53019,Family
 53019,Fantasy
 53019,Comedy
@@ -63992,7 +63992,7 @@ movie_id,genre
 332835,Drama
 332835,Comedy
 326923,Drama
-326923,TV Movie
+326923,Tv Movie
 265934,Comedy
 256021,Unknown
 164286,Crime
@@ -64085,7 +64085,7 @@ movie_id,genre
 214138,Drama
 330544,Drama
 330544,Music
-330544,TV Movie
+330544,Tv Movie
 147287,Comedy
 147287,Crime
 42770,Drama
@@ -64138,7 +64138,7 @@ movie_id,genre
 69129,Action
 69129,Fantasy
 69129,Science Fiction
-69129,TV Movie
+69129,Tv Movie
 129360,Unknown
 134255,Documentary
 326284,Action
@@ -64272,7 +64272,7 @@ movie_id,genre
 291613,Thriller
 291613,Drama
 291613,Action
-103675,TV Movie
+103675,Tv Movie
 103675,Action
 103675,Adventure
 171424,Action
@@ -64324,7 +64324,7 @@ movie_id,genre
 17566,Animation
 17566,Fantasy
 224303,Drama
-224303,TV Movie
+224303,Tv Movie
 283704,Drama
 283704,History
 104146,Comedy
@@ -64471,14 +64471,14 @@ movie_id,genre
 186634,Comedy
 186634,Action
 40373,Drama
-339533,TV Movie
+339533,Tv Movie
 339533,Action
 339533,Science Fiction
 110419,Mystery
 110419,Thriller
 36530,Adventure
 36530,Science Fiction
-36530,TV Movie
+36530,Tv Movie
 3122,Horror
 3122,Science Fiction
 281418,Thriller
@@ -64649,7 +64649,7 @@ movie_id,genre
 339992,Horror
 323384,Drama
 323384,Romance
-323384,TV Movie
+323384,Tv Movie
 334088,Horror
 119172,Fantasy
 119172,Drama
@@ -64796,7 +64796,7 @@ movie_id,genre
 72204,Animation
 72204,Family
 26807,Animation
-20333,TV Movie
+20333,Tv Movie
 20333,Action
 20333,Western
 70122,Adventure
@@ -64929,7 +64929,7 @@ movie_id,genre
 328692,Drama
 266718,Thriller
 266718,Comedy
-304640,TV Movie
+304640,Tv Movie
 304640,Drama
 46359,Horror
 46359,Thriller
@@ -65173,7 +65173,7 @@ movie_id,genre
 74849,Comedy
 74849,Family
 74849,Science Fiction
-74849,TV Movie
+74849,Tv Movie
 220287,Drama
 220287,Horror
 251227,Comedy
@@ -65194,61 +65194,61 @@ movie_id,genre
 316310,War
 316310,Drama
 216037,Drama
-216037,TV Movie
+216037,Tv Movie
 216037,Crime
 222297,Documentary
-3056,TV Movie
+3056,Tv Movie
 3056,Drama
 3056,Horror
 3056,Science Fiction
 3056,Mystery
-30762,TV Movie
+30762,Tv Movie
 30762,Drama
-24020,TV Movie
+24020,Tv Movie
 24020,Family
 24020,Drama
 62527,Comedy
 62527,Drama
 62527,Family
-62527,TV Movie
+62527,Tv Movie
 103014,Family
 71887,Family
 71887,Comedy
 33871,Comedy
 28601,Comedy
 28601,Fantasy
-64265,TV Movie
+64265,Tv Movie
 64265,Family
 64265,Comedy
 64265,Adventure
 34766,Adventure
 34766,Comedy
 34766,Family
-34766,TV Movie
+34766,Tv Movie
 29742,Adventure
 29742,Comedy
 29742,Family
 29742,Science Fiction
-29742,TV Movie
-34765,TV Movie
+29742,Tv Movie
+34765,Tv Movie
 34765,Comedy
 34765,Adventure
 34765,Family
 124134,Action
 124134,Family
-124134,TV Movie
+124134,Tv Movie
 70772,Drama
 70772,Family
-46004,TV Movie
+46004,Tv Movie
 46004,Comedy
 46004,Family
 46004,Adventure
 124097,Comedy
-124097,TV Movie
+124097,Tv Movie
 61717,Action
 61717,Adventure
 61717,Family
-61717,TV Movie
+61717,Tv Movie
 14912,Comedy
 200487,Documentary
 92943,Unknown
@@ -65394,7 +65394,7 @@ movie_id,genre
 212934,Drama
 25318,Drama
 25318,Thriller
-25318,TV Movie
+25318,Tv Movie
 25318,War
 302156,Action
 274854,Fantasy
@@ -65505,7 +65505,7 @@ movie_id,genre
 13733,Comedy
 38238,Crime
 38238,Drama
-32782,TV Movie
+32782,Tv Movie
 32782,Drama
 73147,Comedy
 293452,Drama
@@ -65766,7 +65766,7 @@ movie_id,genre
 165621,Unknown
 10450,Thriller
 10450,Comedy
-19792,TV Movie
+19792,Tv Movie
 19792,Horror
 19792,Science Fiction
 19792,Thriller
@@ -65830,7 +65830,7 @@ movie_id,genre
 21509,Comedy
 21509,Horror
 34789,Comedy
-59700,TV Movie
+59700,Tv Movie
 59700,Family
 59700,Fantasy
 59700,Comedy
@@ -65943,7 +65943,7 @@ movie_id,genre
 35215,Fantasy
 63083,Comedy
 132236,Thriller
-37211,TV Movie
+37211,Tv Movie
 37211,Animation
 37211,Family
 37211,Mystery
@@ -65986,7 +65986,7 @@ movie_id,genre
 33274,Fantasy
 33274,Horror
 33274,Science Fiction
-331446,TV Movie
+331446,Tv Movie
 331446,Horror
 331446,Science Fiction
 297291,Action
@@ -66004,7 +66004,7 @@ movie_id,genre
 13354,Animation
 13354,Family
 13354,Mystery
-13350,TV Movie
+13350,Tv Movie
 13350,Animation
 13350,Family
 20410,Animation
@@ -66066,8 +66066,8 @@ movie_id,genre
 101514,Drama
 101514,Family
 101514,Comedy
-101514,TV Movie
-43960,TV Movie
+101514,Tv Movie
+43960,Tv Movie
 43960,Family
 43960,Comedy
 43960,Adventure
@@ -66104,14 +66104,14 @@ movie_id,genre
 20720,Comedy
 34509,Comedy
 34509,Documentary
-34509,TV Movie
+34509,Tv Movie
 34513,Comedy
 34513,Documentary
-34513,TV Movie
+34513,Tv Movie
 14092,Action
 14092,Animation
 14092,Science Fiction
-16774,TV Movie
+16774,Tv Movie
 16774,Fantasy
 16774,Animation
 16774,Action
@@ -66174,7 +66174,7 @@ movie_id,genre
 194104,Drama
 335753,Horror
 204912,Unknown
-77921,TV Movie
+77921,Tv Movie
 77921,Family
 77921,Drama
 36218,Action
@@ -66230,15 +66230,15 @@ movie_id,genre
 37633,Comedy
 37633,Drama
 65896,Comedy
-13400,TV Movie
+13400,Tv Movie
 13400,Animation
 13400,Family
 13400,Fantasy
-83965,TV Movie
+83965,Tv Movie
 83965,Adventure
 83965,Comedy
 83965,Family
-196257,TV Movie
+196257,Tv Movie
 196257,Comedy
 196257,Family
 196257,Fantasy
@@ -66424,7 +66424,7 @@ movie_id,genre
 81009,Horror
 81009,Mystery
 81009,Science Fiction
-20121,TV Movie
+20121,Tv Movie
 20121,Science Fiction
 20121,Thriller
 188684,Unknown
@@ -66545,7 +66545,7 @@ movie_id,genre
 41587,Thriller
 168361,Crime
 168361,Drama
-168361,TV Movie
+168361,Tv Movie
 279692,Drama
 29597,Horror
 29597,Science Fiction
@@ -66565,7 +66565,7 @@ movie_id,genre
 65683,Romance
 65683,Foreign
 258353,Drama
-63326,TV Movie
+63326,Tv Movie
 63326,Crime
 63326,Mystery
 63326,Thriller
@@ -66574,7 +66574,7 @@ movie_id,genre
 221981,Thriller
 221981,Drama
 344255,Drama
-68193,TV Movie
+68193,Tv Movie
 68193,Thriller
 68193,Drama
 39824,Horror
@@ -66582,21 +66582,21 @@ movie_id,genre
 200450,Unknown
 262522,Thriller
 262522,Mystery
-137776,TV Movie
+137776,Tv Movie
 137776,Crime
 137776,Mystery
 137776,Thriller
-226701,TV Movie
+226701,Tv Movie
 226701,Drama
 226701,Thriller
 306825,Drama
 306825,Thriller
-225850,TV Movie
+225850,Tv Movie
 225850,Thriller
 270383,Drama
 270383,Mystery
 270383,Thriller
-270383,TV Movie
+270383,Tv Movie
 259894,Thriller
 259894,Drama
 259894,Mystery
@@ -66605,7 +66605,7 @@ movie_id,genre
 18016,Thriller
 159763,Drama
 159763,Thriller
-103635,TV Movie
+103635,Tv Movie
 103635,Thriller
 103635,Drama
 103635,Mystery
@@ -66622,8 +66622,8 @@ movie_id,genre
 239513,Thriller
 224251,Drama
 264560,Drama
-264560,TV Movie
-70104,TV Movie
+264560,Tv Movie
+70104,Tv Movie
 70104,Drama
 70104,Mystery
 60664,Thriller
@@ -66635,7 +66635,7 @@ movie_id,genre
 157075,Thriller
 122982,Horror
 122982,Drama
-17241,TV Movie
+17241,Tv Movie
 17241,Drama
 17241,Mystery
 17241,Thriller
@@ -66650,7 +66650,7 @@ movie_id,genre
 140934,Drama
 110204,Mystery
 110204,Thriller
-110204,TV Movie
+110204,Tv Movie
 78403,Thriller
 78403,Drama
 81470,Action
@@ -66674,7 +66674,7 @@ movie_id,genre
 130267,Action
 130267,Crime
 130267,Drama
-58075,TV Movie
+58075,Tv Movie
 58075,Drama
 42966,Drama
 42966,Thriller
@@ -66781,7 +66781,7 @@ movie_id,genre
 41945,Drama
 41945,Romance
 179641,Romance
-179641,TV Movie
+179641,Tv Movie
 179641,Drama
 270173,Unknown
 331781,Documentary
@@ -66930,7 +66930,7 @@ movie_id,genre
 264999,Comedy
 264999,Drama
 264999,Music
-26599,TV Movie
+26599,Tv Movie
 26599,Drama
 26599,Mystery
 26599,Romance
@@ -66982,14 +66982,14 @@ movie_id,genre
 172548,Comedy
 172548,Drama
 155724,Thriller
-155724,TV Movie
+155724,Tv Movie
 179603,Crime
 179603,Drama
 70046,Horror
 70046,Thriller
-70046,TV Movie
+70046,Tv Movie
 201350,Drama
-201350,TV Movie
+201350,Tv Movie
 60662,Drama
 42916,Horror
 42916,Mystery
@@ -66998,7 +66998,7 @@ movie_id,genre
 226188,Mystery
 226188,Drama
 226188,Thriller
-137310,TV Movie
+137310,Tv Movie
 137310,Drama
 332354,Comedy
 248426,Horror
@@ -67024,7 +67024,7 @@ movie_id,genre
 46227,Drama
 46227,Family
 46227,Mystery
-46227,TV Movie
+46227,Tv Movie
 261041,Documentary
 253263,Documentary
 98349,Drama
@@ -67156,14 +67156,14 @@ movie_id,genre
 137484,Romance
 137484,Comedy
 137484,Drama
-39242,TV Movie
+39242,Tv Movie
 39242,Family
 39242,Comedy
 39242,Fantasy
 34557,Drama
-78096,TV Movie
+78096,Tv Movie
 78096,Drama
-102931,TV Movie
+102931,Tv Movie
 102931,Drama
 102931,Crime
 188529,Drama
@@ -67261,7 +67261,7 @@ movie_id,genre
 188758,Drama
 255798,Comedy
 255798,Horror
-287689,TV Movie
+287689,Tv Movie
 287689,Comedy
 333594,Western
 333594,Drama
@@ -67290,7 +67290,7 @@ movie_id,genre
 48412,War
 29964,Horror
 104974,Action
-159324,TV Movie
+159324,Tv Movie
 159324,Crime
 88658,Crime
 88658,Comedy
@@ -67496,11 +67496,11 @@ movie_id,genre
 277687,Drama
 110447,Drama
 326139,Drama
-19560,TV Movie
+19560,Tv Movie
 19560,Drama
 19560,Crime
 117700,Western
-117700,TV Movie
+117700,Tv Movie
 89870,Documentary
 40039,Horror
 40039,Science Fiction
@@ -67650,7 +67650,7 @@ movie_id,genre
 120475,Animation
 120475,Adventure
 87593,Documentary
-132894,TV Movie
+132894,Tv Movie
 132894,Adventure
 132894,Fantasy
 132894,Horror
@@ -67760,7 +67760,7 @@ movie_id,genre
 251425,Documentary
 259679,Documentary
 163814,Romance
-163814,TV Movie
+163814,Tv Movie
 336804,Drama
 163343,Unknown
 337677,Comedy
@@ -67779,7 +67779,7 @@ movie_id,genre
 69598,Drama
 69598,Action
 191476,Fantasy
-307261,TV Movie
+307261,Tv Movie
 307261,Music
 112456,Drama
 112456,Action
@@ -67864,7 +67864,7 @@ movie_id,genre
 29883,Horror
 298609,Unknown
 123224,Comedy
-123224,TV Movie
+123224,Tv Movie
 263986,Horror
 263986,Fantasy
 263986,Thriller
@@ -67992,7 +67992,7 @@ movie_id,genre
 14021,Horror
 14021,Thriller
 55470,Horror
-9878,TV Movie
+9878,Tv Movie
 9878,Drama
 302348,Action
 302348,War
@@ -68038,7 +68038,7 @@ movie_id,genre
 97938,Romance
 97938,Drama
 26676,Horror
-258305,TV Movie
+258305,Tv Movie
 258305,Drama
 258305,Mystery
 258305,Thriller
@@ -68122,7 +68122,7 @@ movie_id,genre
 95892,Crime
 95892,History
 95892,Drama
-95892,TV Movie
+95892,Tv Movie
 342878,Comedy
 342878,Drama
 342878,Romance
@@ -68205,7 +68205,7 @@ movie_id,genre
 266425,Thriller
 266425,Crime
 266425,Drama
-153021,TV Movie
+153021,Tv Movie
 153021,Crime
 153021,Drama
 80015,Comedy
@@ -68447,7 +68447,7 @@ movie_id,genre
 261047,Fantasy
 130374,Comedy
 130374,Romance
-170455,TV Movie
+170455,Tv Movie
 170455,Crime
 170455,Thriller
 210274,Music
@@ -68479,11 +68479,11 @@ movie_id,genre
 245963,Documentary
 25161,Documentary
 25161,Comedy
-25161,TV Movie
+25161,Tv Movie
 310131,Mystery
 310131,Horror
 80219,Drama
-80219,TV Movie
+80219,Tv Movie
 250312,Drama
 79000,Fantasy
 79000,Animation
@@ -68555,7 +68555,7 @@ movie_id,genre
 277154,History
 286192,Animation
 286192,Family
-66799,TV Movie
+66799,Tv Movie
 66799,Thriller
 66799,Drama
 42515,Adventure
@@ -68563,7 +68563,7 @@ movie_id,genre
 42515,Family
 42515,Romance
 42515,Mystery
-65431,TV Movie
+65431,Tv Movie
 65431,Action
 65431,Drama
 65431,History
@@ -68606,7 +68606,7 @@ movie_id,genre
 35178,Drama
 35178,Family
 60071,Unknown
-86543,TV Movie
+86543,Tv Movie
 86543,Western
 50503,Drama
 50503,Family
@@ -68658,11 +68658,11 @@ movie_id,genre
 142064,Comedy
 25180,Drama
 25180,Family
-151937,TV Movie
+151937,Tv Movie
 151937,Comedy
 121945,Action
 121945,Crime
-121945,TV Movie
+121945,Tv Movie
 49928,Romance
 49928,Comedy
 29055,Action
@@ -68675,27 +68675,27 @@ movie_id,genre
 29054,Science Fiction
 142971,History
 60587,Drama
-150329,TV Movie
+150329,Tv Movie
 150329,Action
 150329,Adventure
 77606,Drama
 77606,Family
-77606,TV Movie
-160718,TV Movie
+77606,Tv Movie
+160718,Tv Movie
 160718,Action
 160718,Adventure
 160718,Comedy
-27338,TV Movie
+27338,Tv Movie
 109170,Unknown
-103260,TV Movie
+103260,Tv Movie
 103260,Comedy
-27339,TV Movie
+27339,Tv Movie
 27339,Action
 27339,Crime
 27339,Mystery
 32677,Comedy
-32677,TV Movie
-20435,TV Movie
+32677,Tv Movie
+20435,Tv Movie
 20435,Action
 20435,Thriller
 51881,Family
@@ -68703,7 +68703,7 @@ movie_id,genre
 278604,Animation
 278604,Comedy
 278604,Science Fiction
-252724,TV Movie
+252724,Tv Movie
 252724,Comedy
 252724,Drama
 252724,Romance
@@ -68726,7 +68726,7 @@ movie_id,genre
 128795,Drama
 55027,Documentary
 302721,Unknown
-13204,TV Movie
+13204,Tv Movie
 13204,Fantasy
 13204,Animation
 13204,Horror
@@ -68788,7 +68788,7 @@ movie_id,genre
 343295,Comedy
 114955,Family
 114955,Music
-114955,TV Movie
+114955,Tv Movie
 130296,Crime
 130296,Adventure
 130296,Comedy
@@ -68971,7 +68971,7 @@ movie_id,genre
 39773,Family
 307293,Adventure
 307293,History
-307293,TV Movie
+307293,Tv Movie
 259300,Action
 259300,Science Fiction
 56672,Fantasy
@@ -69088,7 +69088,7 @@ movie_id,genre
 81438,Action
 81438,Drama
 81438,Mystery
-81438,TV Movie
+81438,Tv Movie
 210050,Unknown
 282374,War
 282374,Mystery
@@ -69117,7 +69117,7 @@ movie_id,genre
 26189,Comedy
 26189,Family
 26189,Mystery
-26189,TV Movie
+26189,Tv Movie
 243059,Comedy
 231009,Unknown
 339327,Music
@@ -69172,7 +69172,7 @@ movie_id,genre
 64735,War
 99762,Crime
 99762,Drama
-99762,TV Movie
+99762,Tv Movie
 75634,Action
 75634,Adventure
 75634,War
@@ -69269,7 +69269,7 @@ movie_id,genre
 189723,Drama
 180114,Comedy
 180114,Drama
-41241,TV Movie
+41241,Tv Movie
 41241,Action
 41241,Thriller
 87388,Thriller
@@ -69280,7 +69280,7 @@ movie_id,genre
 273106,Music
 273106,Family
 273106,Fantasy
-273106,TV Movie
+273106,Tv Movie
 120672,Unknown
 136752,Drama
 136752,Action
@@ -69408,7 +69408,7 @@ movie_id,genre
 265758,Crime
 265758,Drama
 265758,Thriller
-265758,TV Movie
+265758,Tv Movie
 16516,Animation
 16516,Drama
 183859,Documentary
@@ -69492,12 +69492,12 @@ movie_id,genre
 70418,Drama
 70418,Thriller
 70418,Romance
-22084,TV Movie
+22084,Tv Movie
 22084,Action
 22084,Adventure
 22084,Comedy
 22084,Family
-45602,TV Movie
+45602,Tv Movie
 45602,Romance
 45602,Drama
 217414,Comedy
@@ -69541,10 +69541,10 @@ movie_id,genre
 330421,Thriller
 177104,Unknown
 348296,Comedy
-26847,TV Movie
+26847,Tv Movie
 26847,Comedy
 26847,Family
-287241,TV Movie
+287241,Tv Movie
 287241,Drama
 287241,Comedy
 301351,Drama
@@ -69621,7 +69621,7 @@ movie_id,genre
 238398,Drama
 268009,War
 268009,Drama
-268009,TV Movie
+268009,Tv Movie
 268009,History
 82313,Adventure
 82313,Western
@@ -69807,18 +69807,18 @@ movie_id,genre
 68591,Family
 68591,Fantasy
 68591,Science Fiction
-68591,TV Movie
+68591,Tv Movie
 286452,Horror
 70069,Horror
 50506,Comedy
 50506,Fantasy
 50506,Romance
-50506,TV Movie
+50506,Tv Movie
 90118,Science Fiction
 90118,Comedy
 90118,Horror
 42673,Comedy
-42673,TV Movie
+42673,Tv Movie
 275985,Horror
 275985,Comedy
 350555,Drama
@@ -69854,7 +69854,7 @@ movie_id,genre
 287948,Thriller
 287948,Action
 287948,Crime
-126832,TV Movie
+126832,Tv Movie
 126832,Documentary
 218974,History
 154582,Drama
@@ -69871,7 +69871,7 @@ movie_id,genre
 230896,Animation
 38060,Animation
 38060,Family
-38060,TV Movie
+38060,Tv Movie
 46963,Animation
 46963,Family
 96701,Fantasy
@@ -69898,7 +69898,7 @@ movie_id,genre
 318973,Thriller
 318973,Crime
 318973,Documentary
-50126,TV Movie
+50126,Tv Movie
 50126,Drama
 50126,Fantasy
 264264,Drama
@@ -69908,7 +69908,7 @@ movie_id,genre
 87300,Family
 87300,Fantasy
 248561,Horror
-300532,TV Movie
+300532,Tv Movie
 300532,Crime
 300532,Drama
 300532,History
@@ -69936,7 +69936,7 @@ movie_id,genre
 151731,Documentary
 151731,Drama
 151731,War
-52060,TV Movie
+52060,Tv Movie
 52060,Fantasy
 52060,Comedy
 52060,Romance
@@ -69947,13 +69947,13 @@ movie_id,genre
 258255,Horror
 211914,Horror
 211914,Fantasy
-104150,TV Movie
+104150,Tv Movie
 104150,Drama
 34204,Adventure
 34204,Comedy
 34204,Family
 34204,Fantasy
-34204,TV Movie
+34204,Tv Movie
 106513,Action
 106513,Thriller
 106513,Crime
@@ -69977,7 +69977,7 @@ movie_id,genre
 81481,Drama
 48675,Horror
 51836,Family
-51836,TV Movie
+51836,Tv Movie
 51836,Comedy
 28640,Action
 28640,Horror
@@ -70001,7 +70001,7 @@ movie_id,genre
 46169,Drama
 46169,Family
 46169,Fantasy
-46169,TV Movie
+46169,Tv Movie
 74254,Drama
 74254,Horror
 74254,Thriller
@@ -70119,7 +70119,7 @@ movie_id,genre
 253450,Drama
 253450,History
 356846,Drama
-356846,TV Movie
+356846,Tv Movie
 104973,Drama
 104973,Horror
 28058,Adventure
@@ -70259,10 +70259,10 @@ movie_id,genre
 335310,Documentary
 44827,Drama
 44827,Foreign
-160155,TV Movie
+160155,Tv Movie
 160155,Comedy
 160155,Family
-24801,TV Movie
+24801,Tv Movie
 24801,Comedy
 24801,Family
 24801,Romance
@@ -70610,13 +70610,13 @@ movie_id,genre
 115626,Comedy
 115626,Family
 115626,Music
-115626,TV Movie
+115626,Tv Movie
 13968,Drama
 13968,Comedy
 13968,Romance
 36269,Comedy
 36269,Family
-22371,TV Movie
+22371,Tv Movie
 22371,Comedy
 22371,Science Fiction
 22371,Family
@@ -70828,7 +70828,7 @@ movie_id,genre
 23142,Science Fiction
 198200,Drama
 198200,Romance
-198200,TV Movie
+198200,Tv Movie
 106546,Action
 106546,Drama
 106546,Thriller
@@ -70884,7 +70884,7 @@ movie_id,genre
 67216,Thriller
 67216,Drama
 67216,Mystery
-26301,TV Movie
+26301,Tv Movie
 26301,Crime
 26301,Drama
 357441,Family
@@ -70913,7 +70913,7 @@ movie_id,genre
 181104,Unknown
 75063,Music
 75063,Documentary
-49249,TV Movie
+49249,Tv Movie
 49249,Romance
 49249,Drama
 49249,History
@@ -70949,7 +70949,7 @@ movie_id,genre
 36737,Science Fiction
 36737,Thriller
 30671,Drama
-30671,TV Movie
+30671,Tv Movie
 336744,Drama
 336744,Thriller
 217185,Romance
@@ -71086,7 +71086,7 @@ movie_id,genre
 270487,Drama
 270487,Mystery
 214717,Science Fiction
-32528,TV Movie
+32528,Tv Movie
 32528,Action
 32528,Drama
 32528,History
@@ -71099,7 +71099,7 @@ movie_id,genre
 29760,Family
 29760,Drama
 29760,Romance
-29760,TV Movie
+29760,Tv Movie
 43713,Thriller
 43713,Horror
 43713,Fantasy
@@ -71141,14 +71141,14 @@ movie_id,genre
 238458,Drama
 238458,Thriller
 265760,Drama
-265760,TV Movie
+265760,Tv Movie
 84114,Drama
 84114,Family
 84114,Adventure
 40826,Drama
 40826,Crime
 26015,Horror
-26015,TV Movie
+26015,Tv Movie
 41434,Horror
 58405,Horror
 111460,Comedy
@@ -71157,7 +71157,7 @@ movie_id,genre
 79580,Drama
 30933,Horror
 30933,Thriller
-30933,TV Movie
+30933,Tv Movie
 124088,Drama
 47084,Drama
 54297,Comedy
@@ -71627,7 +71627,7 @@ movie_id,genre
 352128,Drama
 352128,Science Fiction
 352128,Thriller
-352128,TV Movie
+352128,Tv Movie
 90147,Action
 90147,Thriller
 90147,Crime
@@ -72019,7 +72019,7 @@ movie_id,genre
 184219,Romance
 257253,Fantasy
 257253,Music
-257253,TV Movie
+257253,Tv Movie
 356296,Crime
 356296,Drama
 356296,Thriller
@@ -72029,7 +72029,7 @@ movie_id,genre
 325302,Horror
 46526,Drama
 46526,Romance
-46526,TV Movie
+46526,Tv Movie
 49216,Unknown
 59095,Fantasy
 59095,Horror
@@ -72091,7 +72091,7 @@ movie_id,genre
 47354,Crime
 298382,Drama
 80660,Unknown
-22672,TV Movie
+22672,Tv Movie
 22672,Action
 22672,Thriller
 13721,Crime
@@ -72296,7 +72296,7 @@ movie_id,genre
 273096,Romance
 273096,Crime
 273096,Drama
-217085,TV Movie
+217085,Tv Movie
 217085,Horror
 217085,Science Fiction
 293476,Comedy
@@ -72328,14 +72328,14 @@ movie_id,genre
 74945,Adventure
 74945,Family
 335872,Thriller
-366045,TV Movie
+366045,Tv Movie
 366045,Drama
 253257,Drama
 81644,Drama
 56663,Documentary
 268788,Crime
 268788,Drama
-268788,TV Movie
+268788,Tv Movie
 222581,Drama
 222581,Crime
 318914,Drama
@@ -72348,7 +72348,7 @@ movie_id,genre
 258075,Thriller
 258075,Science Fiction
 310126,Comedy
-37055,TV Movie
+37055,Tv Movie
 37055,Crime
 37055,Drama
 37055,Horror
@@ -72645,7 +72645,7 @@ movie_id,genre
 225403,Unknown
 78329,Drama
 78329,Comedy
-72111,TV Movie
+72111,Tv Movie
 72111,Drama
 72111,Mystery
 72111,Thriller
@@ -72938,7 +72938,7 @@ movie_id,genre
 300654,Thriller
 127471,Unknown
 15089,Documentary
-337549,TV Movie
+337549,Tv Movie
 337549,Drama
 364137,Drama
 364137,Comedy
@@ -72985,7 +72985,7 @@ movie_id,genre
 235044,Family
 235044,Fantasy
 58720,Drama
-58720,TV Movie
+58720,Tv Movie
 14558,Comedy
 39317,Comedy
 74922,Comedy
@@ -72999,7 +72999,7 @@ movie_id,genre
 27560,Thriller
 81274,Drama
 81274,Family
-81274,TV Movie
+81274,Tv Movie
 50652,Comedy
 50652,Family
 170752,Comedy
@@ -73168,7 +73168,7 @@ movie_id,genre
 65830,Crime
 65830,Drama
 65830,Thriller
-65830,TV Movie
+65830,Tv Movie
 84368,Fantasy
 84368,Horror
 84368,Mystery
@@ -73209,7 +73209,7 @@ movie_id,genre
 347264,Comedy
 137587,Unknown
 337751,Drama
-337751,TV Movie
+337751,Tv Movie
 293603,History
 293603,Documentary
 261810,Documentary
@@ -73328,7 +73328,7 @@ movie_id,genre
 50197,Comedy
 174905,Drama
 167364,Comedy
-119694,TV Movie
+119694,Tv Movie
 119694,Drama
 119694,Comedy
 83456,Romance
@@ -73426,7 +73426,7 @@ movie_id,genre
 315620,Unknown
 282963,Family
 282963,Science Fiction
-282963,TV Movie
+282963,Tv Movie
 282963,Adventure
 282963,Drama
 317190,Adventure
@@ -73435,7 +73435,7 @@ movie_id,genre
 317190,Science Fiction
 335209,Science Fiction
 282758,Science Fiction
-282758,TV Movie
+282758,Tv Movie
 92787,Comedy
 55681,Comedy
 55681,Horror
@@ -73590,7 +73590,7 @@ movie_id,genre
 161620,Action
 161620,Adventure
 161620,Fantasy
-161620,TV Movie
+161620,Tv Movie
 166207,Comedy
 356898,Drama
 293982,Drama
@@ -73618,7 +73618,7 @@ movie_id,genre
 219466,Drama
 306060,Documentary
 215881,Thriller
-39446,TV Movie
+39446,Tv Movie
 39446,Crime
 39446,Drama
 39446,Mystery
@@ -73631,7 +73631,7 @@ movie_id,genre
 324573,Documentary
 364089,Comedy
 157050,Comedy
-363810,TV Movie
+363810,Tv Movie
 363810,Comedy
 52255,Drama
 353285,Unknown
@@ -73838,7 +73838,7 @@ movie_id,genre
 364067,Comedy
 364067,Music
 312100,Fantasy
-312100,TV Movie
+312100,Tv Movie
 312100,Family
 312100,Animation
 73901,Animation
@@ -73862,7 +73862,7 @@ movie_id,genre
 293082,Science Fiction
 341744,Comedy
 341744,Drama
-17007,TV Movie
+17007,Tv Movie
 17007,Family
 26571,Documentary
 26571,Drama
@@ -73935,16 +73935,16 @@ movie_id,genre
 215740,History
 24563,Horror
 24563,Science Fiction
-24563,TV Movie
+24563,Tv Movie
 361042,Horror
-361042,TV Movie
-32206,TV Movie
+361042,Tv Movie
+32206,Tv Movie
 32206,Science Fiction
 172721,Science Fiction
 172721,Action
 172721,Comedy
 172721,Adventure
-149722,TV Movie
+149722,Tv Movie
 149722,Action
 149722,Science Fiction
 353257,Action
@@ -73960,7 +73960,7 @@ movie_id,genre
 197599,Thriller
 10124,Horror
 221801,Unknown
-348150,TV Movie
+348150,Tv Movie
 348150,Comedy
 71744,Comedy
 216983,Animation
@@ -74003,7 +74003,7 @@ movie_id,genre
 300693,Drama
 218275,Drama
 15706,Comedy
-301816,TV Movie
+301816,Tv Movie
 301816,Drama
 301816,Science Fiction
 338438,Adventure
@@ -74083,7 +74083,7 @@ movie_id,genre
 120149,Drama
 68982,Horror
 68982,Thriller
-347497,TV Movie
+347497,Tv Movie
 347497,Documentary
 347497,Science Fiction
 367735,Comedy
@@ -74091,7 +74091,7 @@ movie_id,genre
 246355,Crime
 246355,Horror
 246355,Thriller
-299579,TV Movie
+299579,Tv Movie
 299579,Fantasy
 299579,Family
 371818,Drama
@@ -74159,7 +74159,7 @@ movie_id,genre
 27009,Thriller
 30922,Action
 30922,Thriller
-30922,TV Movie
+30922,Tv Movie
 25568,Documentary
 6884,Comedy
 6884,Science Fiction
@@ -74268,15 +74268,15 @@ movie_id,genre
 68419,Comedy
 68419,Foreign
 250096,Comedy
-195752,TV Movie
+195752,Tv Movie
 195752,Action
 195752,Adventure
 79236,Drama
 79236,Romance
 179308,Adventure
 142635,Romance
-142635,TV Movie
-245739,TV Movie
+142635,Tv Movie
+245739,Tv Movie
 331351,Crime
 331351,Comedy
 283596,Comedy
@@ -74287,7 +74287,7 @@ movie_id,genre
 17306,Science Fiction
 17306,Thriller
 338614,Documentary
-359983,TV Movie
+359983,Tv Movie
 359983,Animation
 359983,Family
 135799,Drama
@@ -74333,7 +74333,7 @@ movie_id,genre
 201223,Horror
 319152,Documentary
 26702,Horror
-26702,TV Movie
+26702,Tv Movie
 359746,Documentary
 323149,Thriller
 253286,Thriller
@@ -74435,7 +74435,7 @@ movie_id,genre
 373541,Thriller
 299585,Drama
 299585,Family
-299585,TV Movie
+299585,Tv Movie
 36771,Comedy
 55254,Unknown
 62900,Unknown
@@ -74475,7 +74475,7 @@ movie_id,genre
 140595,Comedy
 140595,Documentary
 140595,Music
-140595,TV Movie
+140595,Tv Movie
 22305,Music
 273085,Music
 63011,Comedy
@@ -74486,7 +74486,7 @@ movie_id,genre
 125464,Science Fiction
 125464,Animation
 358532,Drama
-358532,TV Movie
+358532,Tv Movie
 340666,Drama
 340666,Thriller
 339339,Documentary
@@ -74512,47 +74512,47 @@ movie_id,genre
 310972,Family
 363486,Family
 363486,Fantasy
-363486,TV Movie
+363486,Tv Movie
 363486,Romance
 363486,Drama
 348634,Comedy
-348634,TV Movie
+348634,Tv Movie
 348634,Romance
 363484,Family
-363484,TV Movie
+363484,Tv Movie
 363482,Family
 363482,Romance
-363482,TV Movie
-328848,TV Movie
+363482,Tv Movie
+328848,Tv Movie
 328848,Mystery
 343284,Comedy
 343284,Horror
-361751,TV Movie
+361751,Tv Movie
 361751,Mystery
 362886,Romance
-362886,TV Movie
+362886,Tv Movie
 360604,Romance
-360604,TV Movie
+360604,Tv Movie
 363476,Romance
 363476,Drama
 363478,Family
-363478,TV Movie
+363478,Tv Movie
 363479,Romance
-363479,TV Movie
+363479,Tv Movie
 363480,Drama
-363480,TV Movie
+363480,Tv Movie
 363483,Family
-363483,TV Movie
+363483,Tv Movie
 360603,Romance
-360603,TV Movie
+360603,Tv Movie
 360603,Comedy
 366630,Drama
-366630,TV Movie
+366630,Tv Movie
 366631,Romance
-366631,TV Movie
+366631,Tv Movie
 366018,Romance
 366018,Music
-366018,TV Movie
+366018,Tv Movie
 366018,Comedy
 79720,Fantasy
 79720,Family
@@ -74668,7 +74668,7 @@ movie_id,genre
 232420,Romance
 212640,Comedy
 212640,Romance
-311093,TV Movie
+311093,Tv Movie
 311093,Romance
 13739,Comedy
 260583,Comedy
@@ -74722,7 +74722,7 @@ movie_id,genre
 40246,Animation
 40246,Fantasy
 40246,Family
-141976,TV Movie
+141976,Tv Movie
 141976,Family
 299578,Comedy
 239180,Romance
@@ -74793,7 +74793,7 @@ movie_id,genre
 217250,Drama
 217250,History
 373977,Thriller
-373977,TV Movie
+373977,Tv Movie
 373977,Science Fiction
 373977,Drama
 254736,Drama
@@ -74849,7 +74849,7 @@ movie_id,genre
 372821,Crime
 372821,Action
 372821,Thriller
-145711,TV Movie
+145711,Tv Movie
 107257,Drama
 267319,Action
 267319,Thriller
@@ -75125,7 +75125,7 @@ movie_id,genre
 325712,Thriller
 84105,Drama
 84105,Family
-84105,TV Movie
+84105,Tv Movie
 286987,Family
 286987,Science Fiction
 271954,Drama
@@ -75215,9 +75215,9 @@ movie_id,genre
 27621,Drama
 27621,Family
 27621,Music
-27621,TV Movie
+27621,Tv Movie
 102632,Action
-279973,TV Movie
+279973,Tv Movie
 279973,Drama
 210408,Drama
 210408,Romance
@@ -75392,7 +75392,7 @@ movie_id,genre
 358238,Science Fiction
 376823,Documentary
 303665,Documentary
-104041,TV Movie
+104041,Tv Movie
 104041,Action
 104041,Drama
 86232,Drama
@@ -75433,7 +75433,7 @@ movie_id,genre
 76764,Drama
 151687,Drama
 151687,Thriller
-151687,TV Movie
+151687,Tv Movie
 279006,Unknown
 284467,Thriller
 284467,Mystery
@@ -75519,7 +75519,7 @@ movie_id,genre
 209385,Drama
 36377,Unknown
 144942,Comedy
-144942,TV Movie
+144942,Tv Movie
 176037,Thriller
 329550,Comedy
 329550,Romance
@@ -75815,7 +75815,7 @@ movie_id,genre
 301744,Horror
 97666,Comedy
 220029,Drama
-220029,TV Movie
+220029,Tv Movie
 157293,Drama
 157293,Music
 187737,Unknown
@@ -75869,7 +75869,7 @@ movie_id,genre
 139777,Romance
 378350,Drama
 281968,Drama
-333658,TV Movie
+333658,Tv Movie
 333658,Drama
 224243,Horror
 224243,Mystery
@@ -75970,7 +75970,7 @@ movie_id,genre
 21266,Science Fiction
 137533,Horror
 137533,Thriller
-137533,TV Movie
+137533,Tv Movie
 137533,Science Fiction
 214105,Mystery
 364427,Drama
@@ -75978,7 +75978,7 @@ movie_id,genre
 364427,Thriller
 333377,Documentary
 1998,Drama
-68555,TV Movie
+68555,Tv Movie
 68555,Thriller
 68555,Animation
 68555,Crime
@@ -76008,7 +76008,7 @@ movie_id,genre
 301325,Mystery
 301325,Horror
 301325,Thriller
-367536,TV Movie
+367536,Tv Movie
 367536,Drama
 367536,Family
 270397,Unknown
@@ -76150,7 +76150,7 @@ movie_id,genre
 280617,Science Fiction
 135097,Comedy
 170292,Documentary
-348089,TV Movie
+348089,Tv Movie
 348089,Music
 250902,Documentary
 63378,Comedy
@@ -76211,7 +76211,7 @@ movie_id,genre
 287284,Romance
 287284,Drama
 361263,Drama
-361263,TV Movie
+361263,Tv Movie
 361263,Crime
 361263,Mystery
 367513,Documentary
@@ -76340,7 +76340,7 @@ movie_id,genre
 299824,Fantasy
 76282,Comedy
 44637,Comedy
-86186,TV Movie
+86186,Tv Movie
 86186,Drama
 84865,Comedy
 359154,History
@@ -76521,7 +76521,7 @@ movie_id,genre
 82028,Action
 82028,Comedy
 354857,Comedy
-354857,TV Movie
+354857,Tv Movie
 354857,Animation
 354857,Science Fiction
 65707,Drama
@@ -76641,7 +76641,7 @@ movie_id,genre
 20205,Science Fiction
 203351,Action
 203351,Science Fiction
-197624,TV Movie
+197624,Tv Movie
 197624,Science Fiction
 197624,Action
 24198,Horror
@@ -76958,7 +76958,7 @@ movie_id,genre
 62759,Comedy
 62759,Drama
 336970,Drama
-336970,TV Movie
+336970,Tv Movie
 155052,Drama
 92988,Thriller
 92988,Drama
@@ -77360,7 +77360,7 @@ movie_id,genre
 47011,Foreign
 93440,Documentary
 97707,Documentary
-97707,TV Movie
+97707,Tv Movie
 100250,Unknown
 342686,Drama
 342686,Science Fiction
@@ -77595,7 +77595,7 @@ movie_id,genre
 19980,Crime
 85708,Unknown
 18673,Thriller
-187579,TV Movie
+187579,Tv Movie
 187579,Documentary
 16008,Horror
 20891,Adventure
@@ -77713,7 +77713,7 @@ movie_id,genre
 31319,Drama
 60616,Drama
 60616,Foreign
-227481,TV Movie
+227481,Tv Movie
 227481,History
 227481,Drama
 105572,Romance
@@ -77929,7 +77929,7 @@ movie_id,genre
 292830,Horror
 325892,Unknown
 222890,Science Fiction
-222890,TV Movie
+222890,Tv Movie
 14962,Comedy
 14962,Science Fiction
 26743,Comedy
@@ -77975,7 +77975,7 @@ movie_id,genre
 76323,History
 76323,Drama
 76323,Family
-168712,TV Movie
+168712,Tv Movie
 168712,Thriller
 150736,Unknown
 50583,Action
@@ -78193,7 +78193,7 @@ movie_id,genre
 142406,Unknown
 263627,Comedy
 263627,Drama
-263627,TV Movie
+263627,Tv Movie
 355211,Documentary
 261562,Science Fiction
 261562,Documentary
@@ -78312,7 +78312,7 @@ movie_id,genre
 96161,Romance
 297207,Unknown
 26329,Comedy
-367275,TV Movie
+367275,Tv Movie
 367275,Documentary
 367275,Music
 77829,Documentary
@@ -78420,7 +78420,7 @@ movie_id,genre
 117058,Crime
 117058,Romance
 117058,Foreign
-19754,TV Movie
+19754,Tv Movie
 19754,Crime
 19754,Drama
 385232,Fantasy
@@ -78757,7 +78757,7 @@ movie_id,genre
 186759,Comedy
 356326,Horror
 356326,Thriller
-153397,TV Movie
+153397,Tv Movie
 153397,Romance
 153397,Drama
 40208,Music
@@ -78884,7 +78884,7 @@ movie_id,genre
 387893,Animation
 387893,Comedy
 387893,Family
-387893,TV Movie
+387893,Tv Movie
 109261,Comedy
 109261,Drama
 287717,Documentary
@@ -78906,7 +78906,7 @@ movie_id,genre
 83234,Comedy
 83234,Drama
 78476,Comedy
-239804,TV Movie
+239804,Tv Movie
 239804,Action
 239804,Science Fiction
 292081,Documentary
@@ -79127,7 +79127,7 @@ movie_id,genre
 40043,Horror
 40043,Thriller
 90843,Thriller
-57173,TV Movie
+57173,Tv Movie
 57173,Fantasy
 57173,Horror
 102909,Family
@@ -79265,7 +79265,7 @@ movie_id,genre
 342165,Drama
 117483,Drama
 117483,Romance
-392418,TV Movie
+392418,Tv Movie
 392418,Thriller
 197175,Comedy
 355230,Documentary
@@ -79299,7 +79299,7 @@ movie_id,genre
 101715,Unknown
 112558,Drama
 290188,Drama
-290188,TV Movie
+290188,Tv Movie
 87992,History
 87992,Drama
 54440,Drama
@@ -79463,12 +79463,12 @@ movie_id,genre
 206630,Horror
 206630,Mystery
 206630,Thriller
-206630,TV Movie
+206630,Tv Movie
 202637,Thriller
-202637,TV Movie
+202637,Tv Movie
 39704,Music
 39704,Science Fiction
-39704,TV Movie
+39704,Tv Movie
 89458,Animation
 89458,Comedy
 145689,Unknown
@@ -79612,7 +79612,7 @@ movie_id,genre
 76081,Action
 76081,Adventure
 143335,Drama
-143335,TV Movie
+143335,Tv Movie
 25603,Comedy
 79137,Comedy
 23270,Comedy
@@ -80223,7 +80223,7 @@ movie_id,genre
 248001,Science Fiction
 260500,Unknown
 3786,Science Fiction
-3786,TV Movie
+3786,Tv Movie
 396152,Horror
 119255,Horror
 178146,Thriller
@@ -80296,7 +80296,7 @@ movie_id,genre
 159207,Drama
 369058,Comedy
 369058,Romance
-369058,TV Movie
+369058,Tv Movie
 129269,Documentary
 389323,Drama
 32887,Fantasy
@@ -80314,7 +80314,7 @@ movie_id,genre
 85327,Drama
 85327,Comedy
 85327,Thriller
-299582,TV Movie
+299582,Tv Movie
 299582,Romance
 299582,Family
 371451,Horror
@@ -80415,7 +80415,7 @@ movie_id,genre
 78375,Science Fiction
 63483,Drama
 250275,Unknown
-242906,TV Movie
+242906,Tv Movie
 242906,Crime
 242906,Mystery
 242906,Thriller
@@ -80508,24 +80508,24 @@ movie_id,genre
 208198,Drama
 208198,Music
 358908,Unknown
-289519,TV Movie
+289519,Tv Movie
 289519,Music
 289519,Documentary
 243306,Comedy
 241259,Family
 241259,Fantasy
-109752,TV Movie
+109752,Tv Movie
 109752,Comedy
 109752,Romance
 377432,Romance
-377432,TV Movie
+377432,Tv Movie
 369052,Family
 289523,Romance
 317114,Comedy
 317114,Romance
 315134,Romance
 317121,Romance
-317121,TV Movie
+317121,Tv Movie
 267935,Adventure
 267935,Family
 267935,Fantasy
@@ -80554,37 +80554,37 @@ movie_id,genre
 283827,Comedy
 141418,Family
 385390,Romance
-385390,TV Movie
-387398,TV Movie
+385390,Tv Movie
+387398,Tv Movie
 387398,Romance
 387398,Drama
 387398,Comedy
-381615,TV Movie
+381615,Tv Movie
 381615,Drama
-377428,TV Movie
+377428,Tv Movie
 377428,Romance
 377428,Comedy
 374614,Comedy
 374614,Drama
 374614,Romance
-374614,TV Movie
+374614,Tv Movie
 374609,Romance
-374609,TV Movie
+374609,Tv Movie
 374739,Mystery
 374739,Family
-374739,TV Movie
-374607,TV Movie
+374739,Tv Movie
+374607,Tv Movie
 374607,Romance
 374607,Comedy
 374606,Romance
 374606,Comedy
 374606,Drama
-374603,TV Movie
+374603,Tv Movie
 374603,Romance
 361745,Comedy
-352851,TV Movie
+352851,Tv Movie
 352851,Romance
-346489,TV Movie
+346489,Tv Movie
 346489,Romance
 311181,Comedy
 311181,Drama
@@ -80597,43 +80597,43 @@ movie_id,genre
 299574,Romance
 289520,Comedy
 289520,Romance
-279371,TV Movie
+279371,Tv Movie
 279371,Comedy
 279371,Romance
 279332,Comedy
 239018,Family
 258691,Comedy
 258691,Romance
-258691,TV Movie
+258691,Tv Movie
 249057,Family
 249057,Comedy
 249057,Romance
 238304,Family
 238304,Romance
-238749,TV Movie
+238749,Tv Movie
 238749,Romance
 238749,Comedy
 238749,Drama
 235662,Family
-235662,TV Movie
+235662,Tv Movie
 180794,Comedy
-180794,TV Movie
+180794,Tv Movie
 226167,Romance
 149235,Family
 149235,Fantasy
 149218,Family
 149218,Romance
-149218,TV Movie
+149218,Tv Movie
 147132,Comedy
 145840,Romance
-211125,TV Movie
+211125,Tv Movie
 211125,Drama
 85887,Family
 85887,Romance
 227552,Romance
-81416,TV Movie
+81416,Tv Movie
 81416,Family
-208035,TV Movie
+208035,Tv Movie
 208035,Documentary
 389995,Comedy
 389995,Romance
@@ -80946,14 +80946,14 @@ movie_id,genre
 57992,Adventure
 57992,Drama
 66897,Comedy
-139251,TV Movie
+139251,Tv Movie
 139251,Comedy
 391778,Drama
 4546,Action
 4546,Adventure
 4546,Drama
 4546,History
-4546,TV Movie
+4546,Tv Movie
 389053,Action
 389053,Adventure
 389053,Comedy
@@ -80968,7 +80968,7 @@ movie_id,genre
 26677,Horror
 322745,Documentary
 169448,Documentary
-335409,TV Movie
+335409,Tv Movie
 335409,Science Fiction
 335409,Action
 335409,Horror
@@ -81057,7 +81057,7 @@ movie_id,genre
 32790,Drama
 30641,Thriller
 30641,Horror
-30641,TV Movie
+30641,Tv Movie
 257345,Horror
 257345,Thriller
 34598,Action
@@ -81108,7 +81108,7 @@ movie_id,genre
 298459,Drama
 114030,Comedy
 114030,Foreign
-398854,TV Movie
+398854,Tv Movie
 398854,Comedy
 398854,Fantasy
 398854,Romance
@@ -81134,7 +81134,7 @@ movie_id,genre
 107315,Horror
 91950,Music
 169782,Drama
-169782,TV Movie
+169782,Tv Movie
 98927,Drama
 98927,Romance
 33108,Animation
@@ -81150,7 +81150,7 @@ movie_id,genre
 280004,Romance
 347123,Drama
 347123,History
-347123,TV Movie
+347123,Tv Movie
 121572,Thriller
 121572,Horror
 43608,Crime
@@ -81299,7 +81299,7 @@ movie_id,genre
 373476,Mystery
 373476,Thriller
 300761,Documentary
-300761,TV Movie
+300761,Tv Movie
 41312,Drama
 41312,War
 258755,Romance
@@ -81388,14 +81388,14 @@ movie_id,genre
 305309,Drama
 377462,Documentary
 399747,Thriller
-399747,TV Movie
+399747,Tv Movie
 89662,Science Fiction
 89662,Adventure
 89662,Horror
 216546,Horror
 216546,Thriller
 216546,Science Fiction
-86971,TV Movie
+86971,Tv Movie
 86971,Action
 86971,Science Fiction
 398535,Thriller
@@ -81452,7 +81452,7 @@ movie_id,genre
 57458,Unknown
 267192,Drama
 267192,History
-110490,TV Movie
+110490,Tv Movie
 110490,Comedy
 110490,Drama
 278935,Crime
@@ -81524,7 +81524,7 @@ movie_id,genre
 337965,Drama
 337965,Documentary
 337965,Adventure
-360606,TV Movie
+360606,Tv Movie
 360606,Comedy
 92691,Unknown
 98106,Horror
@@ -81646,7 +81646,7 @@ movie_id,genre
 367999,Comedy
 356758,Drama
 371942,Drama
-371942,TV Movie
+371942,Tv Movie
 359156,Drama
 359152,Drama
 343173,Horror
@@ -81659,7 +81659,7 @@ movie_id,genre
 359412,Crime
 359412,Thriller
 319352,Documentary
-319352,TV Movie
+319352,Tv Movie
 317214,Adventure
 317214,Comedy
 317214,Drama
@@ -81894,7 +81894,7 @@ movie_id,genre
 372297,Romance
 126043,Documentary
 405621,Drama
-405621,TV Movie
+405621,Tv Movie
 103396,Drama
 103396,Crime
 130957,Drama
@@ -81978,7 +81978,7 @@ movie_id,genre
 390880,Comedy
 405388,Comedy
 292277,Documentary
-61348,TV Movie
+61348,Tv Movie
 61348,Romance
 61348,Drama
 368596,Drama
@@ -82045,7 +82045,7 @@ movie_id,genre
 17288,Adventure
 17288,Action
 8383,Crime
-325240,TV Movie
+325240,Tv Movie
 325240,Western
 112675,History
 112675,Action
@@ -82149,7 +82149,7 @@ movie_id,genre
 109636,Action
 109636,Drama
 109636,Thriller
-109636,TV Movie
+109636,Tv Movie
 165644,Unknown
 101185,Drama
 101185,History
@@ -82158,7 +82158,7 @@ movie_id,genre
 29924,Drama
 387444,Drama
 387444,History
-79106,TV Movie
+79106,Tv Movie
 79106,Adventure
 79106,Crime
 79106,Drama
@@ -82217,7 +82217,7 @@ movie_id,genre
 383869,Comedy
 46744,Unknown
 47535,Thriller
-47535,TV Movie
+47535,Tv Movie
 47535,Drama
 388192,Horror
 404073,Comedy
@@ -82288,7 +82288,7 @@ movie_id,genre
 106618,Unknown
 123628,Drama
 120729,Drama
-120729,TV Movie
+120729,Tv Movie
 120729,Comedy
 198491,Drama
 154399,Comedy
@@ -82383,13 +82383,13 @@ movie_id,genre
 112699,Music
 86360,Comedy
 86360,Music
-282040,TV Movie
+282040,Tv Movie
 282040,Western
 32091,Fantasy
 32091,Action
 32091,Foreign
 396395,Romance
-396395,TV Movie
+396395,Tv Movie
 40717,Action
 40717,Drama
 40717,Romance
@@ -82454,7 +82454,7 @@ movie_id,genre
 254679,History
 397520,Drama
 397520,Family
-397520,TV Movie
+397520,Tv Movie
 399894,Action
 399894,Horror
 399894,Science Fiction
@@ -82729,13 +82729,13 @@ movie_id,genre
 377516,Comedy
 377516,Drama
 129006,Unknown
-20583,TV Movie
+20583,Tv Movie
 20583,Action
 20583,Drama
 20583,Romance
 30975,Drama
 30975,Romance
-49857,TV Movie
+49857,Tv Movie
 49857,Drama
 49857,Family
 49857,Romance
@@ -82751,7 +82751,7 @@ movie_id,genre
 81450,Family
 87311,Drama
 87311,Western
-87311,TV Movie
+87311,Tv Movie
 32147,Adventure
 32147,Animation
 32147,Family
@@ -82781,7 +82781,7 @@ movie_id,genre
 19723,Horror
 19723,Comedy
 71559,Drama
-87343,TV Movie
+87343,Tv Movie
 87343,Comedy
 82686,Documentary
 267497,Action
@@ -82845,7 +82845,7 @@ movie_id,genre
 172104,Drama
 68139,Comedy
 68139,Drama
-68139,TV Movie
+68139,Tv Movie
 376651,Drama
 300596,Comedy
 247773,Drama
@@ -83056,7 +83056,7 @@ movie_id,genre
 278738,Unknown
 205361,History
 205361,Drama
-205361,TV Movie
+205361,Tv Movie
 339792,Comedy
 339792,Music
 44749,Thriller
@@ -83269,7 +83269,7 @@ movie_id,genre
 51822,Drama
 51822,Foreign
 51822,Romance
-85483,TV Movie
+85483,Tv Movie
 85483,Horror
 372058,Romance
 372058,Animation
@@ -83282,7 +83282,7 @@ movie_id,genre
 63700,Comedy
 63700,Family
 63700,Fantasy
-63700,TV Movie
+63700,Tv Movie
 206260,Comedy
 206260,Action
 206260,Drama
@@ -83305,7 +83305,7 @@ movie_id,genre
 380734,Horror
 41025,Fantasy
 41025,Horror
-41025,TV Movie
+41025,Tv Movie
 288503,Mystery
 288503,Thriller
 27696,Horror
@@ -83471,7 +83471,7 @@ movie_id,genre
 296193,Comedy
 329690,Comedy
 334461,Comedy
-334461,TV Movie
+334461,Tv Movie
 390782,Documentary
 30858,Drama
 30858,Thriller
@@ -83782,7 +83782,7 @@ movie_id,genre
 393857,Thriller
 365707,Documentary
 28659,Horror
-383914,TV Movie
+383914,Tv Movie
 383914,Documentary
 104285,Drama
 104285,Fantasy
@@ -83840,7 +83840,7 @@ movie_id,genre
 62852,Crime
 62852,Drama
 61528,Drama
-61528,TV Movie
+61528,Tv Movie
 43719,Drama
 43719,Thriller
 43719,Mystery
@@ -83850,7 +83850,7 @@ movie_id,genre
 21481,Drama
 21481,Family
 21481,Fantasy
-21481,TV Movie
+21481,Tv Movie
 63809,Family
 404461,Horror
 122794,Unknown
@@ -83900,7 +83900,7 @@ movie_id,genre
 374671,Drama
 413011,Documentary
 413011,History
-413011,TV Movie
+413011,Tv Movie
 191536,Drama
 191536,Adventure
 106070,Science Fiction
@@ -83919,7 +83919,7 @@ movie_id,genre
 91045,Thriller
 57924,Documentary
 57924,History
-24799,TV Movie
+24799,Tv Movie
 24799,Fantasy
 24799,Horror
 374452,Drama
@@ -84203,55 +84203,55 @@ movie_id,genre
 55504,Comedy
 55504,Drama
 55504,Family
-367544,TV Movie
+367544,Tv Movie
 367544,Romance
 367544,Drama
 317120,Romance
 367538,Drama
-367538,TV Movie
+367538,Tv Movie
 367538,Comedy
 212762,Drama
 355730,Drama
 361261,Drama
 361261,Romance
-361261,TV Movie
-338485,TV Movie
+361261,Tv Movie
+338485,Tv Movie
 338485,Family
-392629,TV Movie
+392629,Tv Movie
 392629,Mystery
 37609,Comedy
 37609,Drama
 37609,Family
 37609,Music
-37609,TV Movie
+37609,Tv Movie
 245473,Action
 245473,Drama
 245473,Romance
-245473,TV Movie
+245473,Tv Movie
 325189,Family
 325189,Comedy
 325189,Music
-400190,TV Movie
+400190,Tv Movie
 400190,Romance
 400190,Family
 379992,Drama
 379992,Romance
-379992,TV Movie
+379992,Tv Movie
 32293,Comedy
 32293,Drama
 32293,Family
 32293,Music
-32293,TV Movie
+32293,Tv Movie
 16236,Drama
 178682,Adventure
 178682,Comedy
 178682,Drama
 393659,Comedy
 393659,Romance
-393659,TV Movie
+393659,Tv Movie
 407334,Unknown
 407171,Romance
-407171,TV Movie
+407171,Tv Movie
 143563,Family
 143563,Music
 65256,Fantasy
@@ -84260,37 +84260,37 @@ movie_id,genre
 88920,Music
 88920,Romance
 379990,Romance
-379990,TV Movie
+379990,Tv Movie
 377431,Drama
 377431,Romance
-377431,TV Movie
+377431,Tv Movie
 344123,Comedy
 344123,Romance
 393656,Comedy
-393656,TV Movie
+393656,Tv Movie
 393656,Romance
-396394,TV Movie
+396394,Tv Movie
 396394,Romance
 27074,Western
 27074,Music
 27074,Romance
 289225,Drama
-289225,TV Movie
+289225,Tv Movie
 289225,Family
 289225,Mystery
 5764,Action
 5764,Family
 5764,Adventure
 5764,Romance
-5764,TV Movie
-343369,TV Movie
+5764,Tv Movie
+343369,Tv Movie
 343369,Drama
 383256,Drama
-383256,TV Movie
+383256,Tv Movie
 383256,Romance
 324264,Documentary
 308686,Family
-308686,TV Movie
+308686,Tv Movie
 391934,Romance
 391934,Drama
 64183,Action
@@ -84304,22 +84304,22 @@ movie_id,genre
 366017,Comedy
 366017,Fantasy
 366017,Romance
-144785,TV Movie
+144785,Tv Movie
 144785,Comedy
 144785,Drama
 231617,Comedy
 231617,Drama
 231617,Romance
-231617,TV Movie
+231617,Tv Movie
 396289,Family
 414762,Drama
-414762,TV Movie
+414762,Tv Movie
 414762,Comedy
 49350,Comedy
 49350,Drama
 49350,Family
-49350,TV Movie
-157449,TV Movie
+49350,Tv Movie
+157449,Tv Movie
 157449,Drama
 157449,Action
 381063,Drama
@@ -84364,7 +84364,7 @@ movie_id,genre
 65900,Comedy
 65900,Romance
 65900,Foreign
-271033,TV Movie
+271033,Tv Movie
 271033,Western
 116494,Drama
 116494,Thriller
@@ -84421,7 +84421,7 @@ movie_id,genre
 241999,Comedy
 241999,Drama
 241999,Romance
-241999,TV Movie
+241999,Tv Movie
 313369,Comedy
 313369,Drama
 313369,Music
@@ -84431,7 +84431,7 @@ movie_id,genre
 56413,Thriller
 155191,Unknown
 407806,Documentary
-318184,TV Movie
+318184,Tv Movie
 318184,Comedy
 53216,Comedy
 53216,Romance
@@ -84518,7 +84518,7 @@ movie_id,genre
 97784,Adventure
 97784,Science Fiction
 158811,Comedy
-413441,TV Movie
+413441,Tv Movie
 413441,Romance
 283521,Crime
 283521,Mystery
@@ -84614,7 +84614,7 @@ movie_id,genre
 258631,Drama
 258631,Family
 301334,Drama
-145959,TV Movie
+145959,Tv Movie
 145959,Drama
 145959,Thriller
 85200,Horror
@@ -84683,13 +84683,13 @@ movie_id,genre
 369567,Drama
 359805,Comedy
 417028,Comedy
-417028,TV Movie
+417028,Tv Movie
 402543,Music
-402543,TV Movie
+402543,Tv Movie
 402543,Drama
 30768,Drama
 299590,Comedy
-413440,TV Movie
+413440,Tv Movie
 413440,Romance
 237709,Family
 30351,Comedy
@@ -84699,10 +84699,10 @@ movie_id,genre
 398891,Comedy
 150657,Comedy
 150657,Fantasy
-412974,TV Movie
+412974,Tv Movie
 412974,Romance
 414767,Drama
-414767,TV Movie
+414767,Tv Movie
 414767,Mystery
 414767,Crime
 251630,Romance
@@ -84710,10 +84710,10 @@ movie_id,genre
 310417,Unknown
 370765,Family
 343858,Unknown
-330161,TV Movie
+330161,Tv Movie
 330161,Mystery
 348631,Drama
-348631,TV Movie
+348631,Tv Movie
 348631,Mystery
 348631,Crime
 243987,Unknown
@@ -84729,7 +84729,7 @@ movie_id,genre
 402298,Drama
 402298,History
 422127,Comedy
-377448,TV Movie
+377448,Tv Movie
 377448,Horror
 377448,Comedy
 377448,Music
@@ -84769,9 +84769,9 @@ movie_id,genre
 405763,Unknown
 111457,Romance
 111457,Comedy
-81420,TV Movie
+81420,Tv Movie
 81420,Family
-120055,TV Movie
+120055,Tv Movie
 120055,Family
 74491,Fantasy
 74491,Drama
@@ -84841,7 +84841,7 @@ movie_id,genre
 55739,Comedy
 55739,Fantasy
 55739,Family
-51443,TV Movie
+51443,Tv Movie
 51443,Drama
 51443,Comedy
 51443,Romance
@@ -84861,7 +84861,7 @@ movie_id,genre
 102870,Drama
 102870,Comedy
 410718,Documentary
-410718,TV Movie
+410718,Tv Movie
 29136,Drama
 59762,Horror
 46718,Animation
@@ -84876,7 +84876,7 @@ movie_id,genre
 381737,Crime
 381737,Drama
 381737,Thriller
-381737,TV Movie
+381737,Tv Movie
 61722,Thriller
 61722,Horror
 61722,Mystery
@@ -85018,13 +85018,13 @@ movie_id,genre
 385372,Comedy
 417936,Comedy
 417936,Romance
-417936,TV Movie
+417936,Tv Movie
 48406,Drama
 48406,Romance
 87628,Romance
 87628,History
 358353,Family
-358353,TV Movie
+358353,Tv Movie
 243599,Comedy
 243599,Romance
 51349,Adventure
@@ -85093,7 +85093,7 @@ movie_id,genre
 76122,Action
 138611,Documentary
 299969,Documentary
-259910,TV Movie
+259910,Tv Movie
 259910,Documentary
 393629,Comedy
 393629,Documentary
@@ -85150,7 +85150,7 @@ movie_id,genre
 376553,Thriller
 200549,Drama
 200549,Horror
-200549,TV Movie
+200549,Tv Movie
 393603,Drama
 83865,Animation
 83865,Family
@@ -85187,7 +85187,7 @@ movie_id,genre
 33534,Drama
 33534,Fantasy
 109176,Unknown
-323673,TV Movie
+323673,Tv Movie
 323673,Romance
 419546,Documentary
 57664,Western
@@ -85249,7 +85249,7 @@ movie_id,genre
 38625,Drama
 38625,Action
 38625,War
-315955,TV Movie
+315955,Tv Movie
 315955,War
 315955,Action
 315955,Drama
@@ -85259,7 +85259,7 @@ movie_id,genre
 249703,Drama
 249703,Comedy
 37432,Drama
-37432,TV Movie
+37432,Tv Movie
 18517,Comedy
 18517,Romance
 18424,Comedy
@@ -85315,7 +85315,7 @@ movie_id,genre
 214629,Horror
 47778,Romance
 324013,Unknown
-46975,TV Movie
+46975,Tv Movie
 46975,Drama
 46975,Family
 424182,Horror
@@ -85334,7 +85334,7 @@ movie_id,genre
 410259,Drama
 410259,Family
 240723,Family
-167012,TV Movie
+167012,Tv Movie
 167012,Comedy
 167012,Drama
 167012,Romance
@@ -85350,31 +85350,31 @@ movie_id,genre
 226001,Fantasy
 266568,Family
 266568,Fantasy
-266568,TV Movie
-410314,TV Movie
+266568,Tv Movie
+410314,Tv Movie
 410314,Drama
 410314,Romance
 410774,Family
 410774,Fantasy
-410774,TV Movie
+410774,Tv Movie
 149786,Drama
 149786,Family
 216647,Unknown
 51959,Family
 51959,Fantasy
-313896,TV Movie
+313896,Tv Movie
 313896,Horror
 313896,Family
 313896,Fantasy
 374319,Mystery
 374319,Family
-374319,TV Movie
+374319,Tv Movie
 279558,Fantasy
 279558,Family
-279558,TV Movie
+279558,Tv Movie
 268712,Family
 268712,Fantasy
-374247,TV Movie
+374247,Tv Movie
 374247,Fantasy
 374247,Family
 6103,Crime
@@ -85515,7 +85515,7 @@ movie_id,genre
 354421,Crime
 354421,Documentary
 41973,Documentary
-276578,TV Movie
+276578,Tv Movie
 276578,Thriller
 276578,Drama
 276578,Mystery
@@ -85749,7 +85749,7 @@ movie_id,genre
 228384,Comedy
 11603,Drama
 11603,Thriller
-11603,TV Movie
+11603,Tv Movie
 226686,Unknown
 320413,Comedy
 320413,Horror
@@ -85801,8 +85801,8 @@ movie_id,genre
 345727,Music
 345727,Documentary
 230031,Documentary
-362884,TV Movie
-64191,TV Movie
+362884,Tv Movie
+64191,Tv Movie
 64191,Drama
 185644,Documentary
 200035,Drama
@@ -85911,7 +85911,7 @@ movie_id,genre
 413543,Romance
 413547,Crime
 413547,Thriller
-44746,TV Movie
+44746,Tv Movie
 44746,Comedy
 44746,Drama
 44746,Family
@@ -86078,7 +86078,7 @@ movie_id,genre
 227668,Mystery
 416251,Comedy
 416251,Romance
-416251,TV Movie
+416251,Tv Movie
 430250,Thriller
 430250,Horror
 92168,Animation
@@ -86182,14 +86182,14 @@ movie_id,genre
 162934,Family
 162934,Drama
 162934,Romance
-109912,TV Movie
+109912,Tv Movie
 109912,Crime
 109912,Drama
 54050,Action
 54050,Adventure
 54050,Comedy
 54050,Western
-54050,TV Movie
+54050,Tv Movie
 369875,Comedy
 369875,Family
 170078,Unknown
@@ -86203,7 +86203,7 @@ movie_id,genre
 46629,Unknown
 20679,Comedy
 20679,Documentary
-20679,TV Movie
+20679,Tv Movie
 412467,Action
 412467,War
 412467,History
@@ -86368,13 +86368,13 @@ movie_id,genre
 228257,Crime
 228257,Drama
 228257,Mystery
-228257,TV Movie
+228257,Tv Movie
 95400,Drama
 95400,Mystery
 152618,Science Fiction
 389630,Drama
 18223,Thriller
-18223,TV Movie
+18223,Tv Movie
 18223,Drama
 268771,Documentary
 394689,Comedy
@@ -86457,7 +86457,7 @@ movie_id,genre
 264170,Animation
 256421,Documentary
 256421,Animation
-327083,TV Movie
+327083,Tv Movie
 327083,Documentary
 148039,Unknown
 16487,Animation
@@ -86582,7 +86582,7 @@ movie_id,genre
 270529,Comedy
 334679,Documentary
 108177,Comedy
-108177,TV Movie
+108177,Tv Movie
 102053,Comedy
 38323,Adventure
 38323,Family
@@ -86606,12 +86606,12 @@ movie_id,genre
 381021,Documentary
 256756,Horror
 256756,Mystery
-396392,TV Movie
+396392,Tv Movie
 396392,Romance
 393658,Drama
-393658,TV Movie
+393658,Tv Movie
 393658,Romance
-411081,TV Movie
+411081,Tv Movie
 411081,Romance
 369054,Family
 254299,Family
@@ -86647,9 +86647,9 @@ movie_id,genre
 211387,Fantasy
 412511,Romance
 369057,Romance
-369057,TV Movie
+369057,Tv Movie
 400045,Family
-60821,TV Movie
+60821,Tv Movie
 60821,Comedy
 60821,Family
 60821,Fantasy
@@ -86661,17 +86661,17 @@ movie_id,genre
 76535,Science Fiction
 76535,Fantasy
 427045,Romance
-427045,TV Movie
+427045,Tv Movie
 420967,Romance
 420967,Comedy
 410315,Comedy
 410315,Romance
-410315,TV Movie
+410315,Tv Movie
 382207,Unknown
-421626,TV Movie
+421626,Tv Movie
 421626,Romance
 89269,Drama
-89269,TV Movie
+89269,Tv Movie
 24068,Drama
 396616,War
 396616,Action
@@ -86690,7 +86690,7 @@ movie_id,genre
 158273,Unknown
 270047,Crime
 69990,Action
-69990,TV Movie
+69990,Tv Movie
 69990,Family
 69990,Adventure
 180514,Comedy
@@ -86776,7 +86776,7 @@ movie_id,genre
 362585,Animation
 362585,Fantasy
 362585,Mystery
-150140,TV Movie
+150140,Tv Movie
 150140,Drama
 150140,Family
 227932,Comedy
@@ -86838,10 +86838,10 @@ movie_id,genre
 362583,Thriller
 34163,Documentary
 34163,Comedy
-34163,TV Movie
+34163,Tv Movie
 256166,Mystery
 256166,Crime
-256166,TV Movie
+256166,Tv Movie
 256166,Horror
 397837,Mystery
 397837,Drama
@@ -87212,16 +87212,16 @@ movie_id,genre
 438283,Drama
 438283,Crime
 82414,Drama
-160799,TV Movie
+160799,Tv Movie
 160799,Science Fiction
 72251,Drama
-72251,TV Movie
+72251,Tv Movie
 411221,Animation
 411221,Family
 434234,Comedy
 69214,Comedy
 69214,Drama
-373514,TV Movie
+373514,Tv Movie
 373514,Mystery
 437372,Documentary
 408509,Drama
@@ -87606,7 +87606,7 @@ movie_id,genre
 38751,Crime
 38751,Mystery
 417263,Drama
-417263,TV Movie
+417263,Tv Movie
 67592,Animation
 67592,Comedy
 101818,Drama
@@ -87621,7 +87621,7 @@ movie_id,genre
 408438,Drama
 272820,Drama
 348611,Drama
-348611,TV Movie
+348611,Tv Movie
 244117,Drama
 395531,Documentary
 332491,Drama
@@ -87744,7 +87744,7 @@ movie_id,genre
 359244,Comedy
 360408,Comedy
 360408,Music
-359459,TV Movie
+359459,Tv Movie
 359459,Comedy
 366692,Comedy
 361750,Comedy
@@ -87763,11 +87763,11 @@ movie_id,genre
 179105,Action
 179105,Science Fiction
 295891,Comedy
-295891,TV Movie
+295891,Tv Movie
 306218,Unknown
 273128,Comedy
 281590,Comedy
-265394,TV Movie
+265394,Tv Movie
 265394,Comedy
 306199,Comedy
 37354,Comedy
@@ -87800,7 +87800,7 @@ movie_id,genre
 360328,Unknown
 443007,Drama
 443007,Thriller
-242409,TV Movie
+242409,Tv Movie
 242409,Drama
 255802,Documentary
 255802,Drama
@@ -87865,7 +87865,7 @@ movie_id,genre
 371504,Crime
 371504,Drama
 371504,Mystery
-371504,TV Movie
+371504,Tv Movie
 393443,Documentary
 309028,Drama
 422960,Documentary
@@ -87877,7 +87877,7 @@ movie_id,genre
 56947,Drama
 56947,Comedy
 327231,Comedy
-352845,TV Movie
+352845,Tv Movie
 352845,Drama
 352845,Romance
 430128,Comedy
@@ -87996,7 +87996,7 @@ movie_id,genre
 390930,Drama
 346758,Unknown
 53962,Unknown
-115161,TV Movie
+115161,Tv Movie
 115161,Music
 305470,Action
 305470,Adventure
@@ -88015,7 +88015,7 @@ movie_id,genre
 153073,Science Fiction
 37938,Horror
 37938,Thriller
-37938,TV Movie
+37938,Tv Movie
 394385,Documentary
 74124,Unknown
 56002,Romance
@@ -88239,7 +88239,7 @@ movie_id,genre
 133684,Comedy
 173499,Unknown
 185789,Thriller
-185789,TV Movie
+185789,Tv Movie
 185789,Drama
 185789,Mystery
 444705,Comedy
@@ -88576,7 +88576,7 @@ movie_id,genre
 436340,Drama
 37037,Adventure
 37037,Family
-284457,TV Movie
+284457,Tv Movie
 284457,Thriller
 284457,Drama
 284457,Crime
@@ -88767,7 +88767,7 @@ movie_id,genre
 31051,Action
 31051,Animation
 31051,Comedy
-31051,TV Movie
+31051,Tv Movie
 378221,Comedy
 378221,Family
 435737,Family
@@ -88838,7 +88838,7 @@ movie_id,genre
 442640,Documentary
 57248,Comedy
 57248,Drama
-418969,TV Movie
+418969,Tv Movie
 418969,Romance
 418969,Mystery
 399217,Drama
@@ -88866,26 +88866,26 @@ movie_id,genre
 45966,Documentary
 45970,Documentary
 426224,Documentary
-57837,TV Movie
+57837,Tv Movie
 57837,Comedy
 57837,Documentary
 34506,Comedy
 34506,Documentary
-34506,TV Movie
-70086,TV Movie
+34506,Tv Movie
+70086,Tv Movie
 70086,Comedy
 70086,Documentary
-25160,TV Movie
+25160,Tv Movie
 25160,Comedy
 25160,Documentary
 30649,Comedy
 30649,Documentary
-30649,TV Movie
+30649,Tv Movie
 28753,Comedy
 28810,Comedy
 34512,Comedy
 34512,Documentary
-34512,TV Movie
+34512,Tv Movie
 35241,Comedy
 33914,Comedy
 33914,Family
@@ -89007,7 +89007,7 @@ movie_id,genre
 43158,Music
 43158,Family
 72553,Documentary
-30289,TV Movie
+30289,Tv Movie
 30289,Action
 30289,Adventure
 30289,Science Fiction
@@ -89108,7 +89108,7 @@ movie_id,genre
 255358,Comedy
 413953,Drama
 54638,Science Fiction
-54638,TV Movie
+54638,Tv Movie
 54471,Adventure
 291276,Action
 291276,Thriller
@@ -89275,7 +89275,7 @@ movie_id,genre
 54514,Drama
 54514,Comedy
 54514,Crime
-143883,TV Movie
+143883,Tv Movie
 61672,Animation
 227334,Documentary
 430161,Romance
@@ -89440,7 +89440,7 @@ movie_id,genre
 127803,Comedy
 398798,Comedy
 398798,Horror
-450530,TV Movie
+450530,Tv Movie
 450530,Drama
 450530,Science Fiction
 447818,Documentary
@@ -89572,14 +89572,14 @@ movie_id,genre
 3003,Adventure
 3003,Fantasy
 3003,Science Fiction
-421758,TV Movie
+421758,Tv Movie
 421758,Drama
 387938,Comedy
 149336,Documentary
 144939,Unknown
 117422,Comedy
 446493,Romance
-446493,TV Movie
+446493,Tv Movie
 126127,Comedy
 126127,Romance
 132597,Drama
@@ -89594,7 +89594,7 @@ movie_id,genre
 24590,Drama
 85463,Drama
 413467,Mystery
-413467,TV Movie
+413467,Tv Movie
 413467,Crime
 395965,Documentary
 65386,Drama
@@ -89741,10 +89741,10 @@ movie_id,genre
 55738,Action
 55738,Romance
 55738,Comedy
-55734,TV Movie
+55734,Tv Movie
 55734,Comedy
 55734,Drama
-82377,TV Movie
+82377,Tv Movie
 82377,Family
 82377,Romance
 318348,Unknown
@@ -89872,7 +89872,7 @@ movie_id,genre
 48281,Romance
 48281,Drama
 48281,Fantasy
-48281,TV Movie
+48281,Tv Movie
 317925,Comedy
 41709,Comedy
 41709,Romance
@@ -89959,10 +89959,10 @@ movie_id,genre
 28013,Drama
 81604,Animation
 81604,Fantasy
-266135,TV Movie
+266135,Tv Movie
 266135,Drama
 51299,Documentary
-117878,TV Movie
+117878,Tv Movie
 117878,Romance
 36264,War
 36264,Comedy
@@ -90137,7 +90137,7 @@ movie_id,genre
 63930,Action
 63930,Crime
 63930,Drama
-16331,TV Movie
+16331,Tv Movie
 16331,Action
 16331,Drama
 16331,Western
@@ -90250,7 +90250,7 @@ movie_id,genre
 363992,Crime
 363992,Drama
 363992,History
-363992,TV Movie
+363992,Tv Movie
 146414,Family
 146414,Drama
 37695,Action
@@ -90279,12 +90279,12 @@ movie_id,genre
 22495,Science Fiction
 22495,Drama
 22495,Fantasy
-68954,TV Movie
+68954,Tv Movie
 68954,Drama
 68954,History
 19312,Science Fiction
 19312,Thriller
-19312,TV Movie
+19312,Tv Movie
 57207,Comedy
 57207,Romance
 57207,Drama
@@ -90297,7 +90297,7 @@ movie_id,genre
 69976,Unknown
 35908,Horror
 35908,Thriller
-30203,TV Movie
+30203,Tv Movie
 30203,Horror
 30203,Science Fiction
 51267,Comedy
@@ -90350,7 +90350,7 @@ movie_id,genre
 26792,Drama
 26792,History
 37603,Unknown
-444623,TV Movie
+444623,Tv Movie
 79833,Drama
 79833,Science Fiction
 79833,Romance
@@ -90404,7 +90404,7 @@ movie_id,genre
 73241,Documentary
 339445,Documentary
 264080,Thriller
-264080,TV Movie
+264080,Tv Movie
 264080,Drama
 264080,Action
 264081,Unknown
@@ -90443,7 +90443,7 @@ movie_id,genre
 89998,Science Fiction
 63088,Horror
 63088,Science Fiction
-63088,TV Movie
+63088,Tv Movie
 127186,Drama
 42743,Science Fiction
 39400,Fantasy
@@ -90508,7 +90508,7 @@ movie_id,genre
 20932,Comedy
 20932,Romance
 162042,Science Fiction
-162042,TV Movie
+162042,Tv Movie
 162042,Action
 162042,Thriller
 31240,Action
@@ -90552,7 +90552,7 @@ movie_id,genre
 316154,Romance
 316154,Science Fiction
 392788,Drama
-452142,TV Movie
+452142,Tv Movie
 452142,Crime
 452142,Mystery
 452142,Thriller
@@ -90661,7 +90661,7 @@ movie_id,genre
 424971,Unknown
 412363,Comedy
 412363,Romance
-447061,TV Movie
+447061,Tv Movie
 447061,Comedy
 447061,Romance
 448449,Music
@@ -90688,7 +90688,7 @@ movie_id,genre
 431714,Music
 431714,Documentary
 390410,Documentary
-452372,TV Movie
+452372,Tv Movie
 452372,Documentary
 174720,Comedy
 433878,Documentary
@@ -90761,7 +90761,7 @@ movie_id,genre
 381070,Romance
 382475,Drama
 337747,Drama
-337747,TV Movie
+337747,Tv Movie
 337747,Western
 117680,Music
 24564,Documentary
@@ -90809,7 +90809,7 @@ movie_id,genre
 430988,Thriller
 418787,Documentary
 449012,Documentary
-449012,TV Movie
+449012,Tv Movie
 16455,Animation
 16455,Family
 292631,Comedy
@@ -90888,7 +90888,7 @@ movie_id,genre
 41237,Horror
 41237,Science Fiction
 41237,Thriller
-41237,TV Movie
+41237,Tv Movie
 64827,Unknown
 76012,Mystery
 76012,Action
@@ -90984,7 +90984,7 @@ movie_id,genre
 333953,Drama
 275054,Drama
 275054,Foreign
-275054,TV Movie
+275054,Tv Movie
 103301,Comedy
 62664,Mystery
 62664,Thriller
@@ -91287,7 +91287,7 @@ movie_id,genre
 360007,Horror
 360007,Comedy
 431490,Comedy
-431490,TV Movie
+431490,Tv Movie
 104694,Documentary
 153561,Drama
 336890,Comedy
@@ -91299,7 +91299,7 @@ movie_id,genre
 374430,Mystery
 374430,Science Fiction
 374430,Thriller
-374430,TV Movie
+374430,Tv Movie
 374720,Action
 374720,Drama
 374720,History
@@ -91734,7 +91734,7 @@ movie_id,genre
 42487,Horror
 436352,Drama
 157414,Unknown
-46203,TV Movie
+46203,Tv Movie
 46203,Drama
 46203,Romance
 459928,Thriller
@@ -91783,7 +91783,7 @@ movie_id,genre
 26147,Romance
 363960,Comedy
 273059,Drama
-273059,TV Movie
+273059,Tv Movie
 46661,Drama
 307930,Documentary
 462026,Documentary
@@ -91836,7 +91836,7 @@ movie_id,genre
 359749,Documentary
 415086,Documentary
 433084,Documentary
-422842,TV Movie
+422842,Tv Movie
 422842,Mystery
 313943,Science Fiction
 345916,Drama
@@ -91899,7 +91899,7 @@ movie_id,genre
 32593,Adventure
 32593,Family
 32593,Fantasy
-32593,TV Movie
+32593,Tv Movie
 80303,Comedy
 348391,Comedy
 348391,Drama
@@ -91911,7 +91911,7 @@ movie_id,genre
 401132,Science Fiction
 405446,Drama
 458506,Comedy
-458506,TV Movie
+458506,Tv Movie
 260969,Drama
 51871,Drama
 51871,Comedy
@@ -91941,7 +91941,7 @@ movie_id,genre
 444902,Music
 444902,Drama
 444902,Romance
-444902,TV Movie
+444902,Tv Movie
 54988,Documentary
 340856,Documentary
 6029,Mystery
@@ -92088,7 +92088,7 @@ movie_id,genre
 366071,Horror
 366071,Drama
 204821,Unknown
-69560,TV Movie
+69560,Tv Movie
 69560,Drama
 51078,Drama
 51078,Thriller
@@ -92255,7 +92255,7 @@ movie_id,genre
 390343,Documentary
 450875,Documentary
 56841,Drama
-417320,TV Movie
+417320,Tv Movie
 417320,Family
 417320,Action
 417320,Comedy
@@ -92271,7 +92271,7 @@ movie_id,genre
 51507,Thriller
 373247,Comedy
 458618,Documentary
-458618,TV Movie
+458618,Tv Movie
 277839,Comedy
 454787,Comedy
 433471,Animation
@@ -92483,7 +92483,7 @@ movie_id,genre
 370213,Documentary
 99104,Horror
 445126,Romance
-401687,TV Movie
+401687,Tv Movie
 401687,Romance
 200066,Drama
 200066,Romance
@@ -92583,7 +92583,7 @@ movie_id,genre
 84710,Horror
 39562,Drama
 39562,Family
-39562,TV Movie
+39562,Tv Movie
 14008,Comedy
 49279,Comedy
 49279,Fantasy
