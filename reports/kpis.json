@@ -1,0 +1,19 @@
+{
+  "total_movies": 44985,
+  "movies_with_revenue": 7233,
+  "movies_with_profit": 5303,
+  "total_revenue_usd": 509333453449.0,
+  "avg_rating": 6.18,
+  "avg_revenue_usd": 70418008.0,
+  "avg_profit_usd": 60069586.0,
+  "median_roi": 2.07,
+  "pct_movies_profitable": 70.2,
+  "pct_movies_flop": 29.5,
+  "corr_rating_vs_revenue": 0.077,
+  "corr_budget_vs_revenue": 0.703,
+  "top_genre_by_avg_revenue": "Adventure",
+  "top_genre_by_avg_rating": "Documentary",
+  "best_release_month_by_avg_revenue": "Jun",
+  "top_profit_movie": "Avatar",
+  "top_profit_usd": 2550965087.0
+}
