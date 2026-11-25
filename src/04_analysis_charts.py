@@ -1,4 +1,4 @@
-"""P9 - Analysis and charts for Movie Ratings and Box-Office Analysis.
+"""  Analysis and charts for Movie Ratings and Box-Office Analysis.
 
 Run from the project folder:   python src/04_analysis_charts.py
 Needs:  pip install pandas matplotlib
