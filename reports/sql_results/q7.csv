@@ -1,0 +1,13 @@
+month,month_name,movies_with_revenue,avg_revenue_usd
+6,June,581,124162470.0
+5,May,574,100422696.0
+12,December,683,97944141.0
+11,November,533,97326536.0
+7,July,561,94062585.0
+3,March,552,67639534.0
+4,April,548,63195452.0
+2,February,503,53679597.0
+10,October,684,49003334.0
+8,August,637,46923909.0
+9,September,884,33435917.0
+1,January,493,32611158.0
