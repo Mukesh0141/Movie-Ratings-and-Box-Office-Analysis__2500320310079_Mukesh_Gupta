@@ -1,0 +1,7 @@
+test_case,result,details
+test_01_no_duplicate_movie_keys,PASS,duplicate movie IDs: 0
+test_02_no_duplicate_movie_genre_keys,PASS,duplicate movie-genre pairs: 0
+test_03_no_missing_required_fields,PASS,missing/blank required values: 0
+test_04_valid_value_ranges,PASS,all available values are within valid ranges
+test_05_python_revenue_total_equals_sql_revenue_total,PASS,Python=509333453449.00; SQL=509333453449.00
+test_06_every_fact_row_has_matching_movie_dimension,PASS,unmatched fact rows: 0
