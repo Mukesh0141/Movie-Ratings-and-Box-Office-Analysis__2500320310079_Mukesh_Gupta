@@ -1,0 +1,182 @@
+# Final Project Report
+## Movie Ratings and Box-Office Analysis
+
+### 1. Abstract
+
+The Movie Ratings and Box-Office Analysis project examines movie information, audience ratings, genres, budgets, revenue, and profitability. The project uses The Movies Dataset from Kaggle, with Python and Pandas for data processing, SQLite and SQL for data storage and validation, and Power BI for interactive visualization.
+
+The cleaned data is organized into a relational database and presented through a dashboard containing an overview, genre and movie analysis, and individual movie details. The project helps users explore movie performance and compare different aspects of the film industry.
+
+### 2. Problem
+
+Movie information, audience ratings, genres, and financial details can be difficult to analyze together when stored in different fields and files. Missing values and multiple genres also make comparisons challenging.
+
+This project addresses the problem by cleaning and organizing movie data, storing it in a structured database, and developing an interactive Power BI dashboard to explore ratings and box-office performance.
+
+### 3. Data and Cleaning
+
+**Data source:** The Movies Dataset by Rounak Banik, downloaded from Kaggle.
+
+**Dataset link:** https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+
+The dataset contains movie information, including ratings, release dates, genres, budgets, and revenue.
+
+#### Data completeness
+
+| Field | Available records | Missing records |
+|---|---:|---:|
+| Total movie records | 44,985 | — |
+| Vote average | 42,145 | 2,840 |
+| Budget | 8,613 | 36,372 |
+| Revenue | 7,233 | 37,752 |
+| Runtime | 43,222 | 1,763 |
+| Release year | 44,907 | 78 |
+
+#### Data cleaning and preparation
+
+| Area | Cleaning or validation performed |
+|---|---|
+| Movie identifiers | Checked for duplicate movie IDs in the cleaned movie file. |
+| Required fields | Checked movie IDs and titles for missing or blank values. |
+| Genre information | Organized movie-to-genre relationships using a separate genre file and bridge table. |
+| Missing values | Identified missing ratings, budgets, revenue, runtime, and release years. |
+| Numeric values | Prepared valid-range checks for ratings, votes, budgets, revenue, runtime, and release year. |
+| Database relationships | Checked whether fact-table movie records match the movie dimension. |
+
+Missing optional values were not automatically treated as invalid data. The updated validation logic checks available values against their valid ranges.
+
+### 4. Design
+
+The project uses a relational database design with dimension tables, a fact table, and a bridge table.
+
+**Database tables:**
+
+- `dim_movie`
+- `dim_date`
+- `dim_language`
+- `dim_genre`
+- `fact_movie_performance`
+- `bridge_movie_genre`
+
+The fact table stores movie performance information such as budget, revenue, profit, ROI, rating, votes, and runtime.
+
+#### Power BI dashboard design
+
+The report contains the following pages:
+
+| Dashboard page | Purpose |
+|---|---|
+| Overview | Displays high-level movie performance information. |
+| Genre & Movie Analysis | Allows comparison of genres and individual movies. |
+| Movie Details & Performance | Displays detailed information about a selected movie through drill-through. |
+
+The dashboard includes slicers for genre, year, and rating, along with a drill-through feature and a back-navigation button.
+
+### 5. Implementation
+
+The project was implemented using the following technologies:
+
+| Technology | Purpose |
+|---|---|
+| Python | Data processing and validation |
+| Pandas | Reading and analyzing CSV files |
+| SQLite | Storing structured movie data |
+| SQL | Querying and validating database records |
+| Power BI Desktop | Creating interactive dashboards |
+
+The cleaned movie and genre data are stored in CSV files. The database is maintained in `data/movies.db`.
+
+Python is used to perform data checks and compare the revenue total from the CSV data with the SQL fact table. Power BI connects the data to create interactive reports.
+
+### 6. Results
+
+The following results are confirmed from the project data and database checks.
+
+| Metric | Result |
+|---|---:|
+| Total movie records | 44,985 |
+| Records with ratings | 42,145 |
+| Records with budget information | 8,613 |
+| Records with revenue information | 7,233 |
+| Total revenue calculated using Python | 509,333,453,449 |
+| Total revenue calculated using SQL | 509,333,453,449 |
+| Tables in the SQLite database | 6 |
+
+**Important validation result:** The total revenue calculated using Python matches the total revenue calculated using SQL.
+
+The financial values are reported in the dataset's recorded units. Their original currency has not been independently confirmed.
+
+### 7. Insights and Recommendations
+
+#### Confirmed observations
+
+- The dataset contains a substantial amount of missing budget and revenue information.
+- Rating information is available for more records than budget or revenue information.
+- Python and SQL produce matching total revenue values, supporting consistency between the CSV analysis and database.
+- Separating movie genres into a bridge table makes it possible to analyze movies associated with multiple genres.
+- The Power BI report provides interactive exploration through slicers and movie-level drill-through.
+
+#### Recommendations
+
+- Consider data completeness before drawing conclusions from budget and revenue comparisons.
+- Use records with the required financial information when calculating profit and ROI.
+- Compare genres using clearly defined measures and avoid adding overlapping multi-genre totals as if they were independent.
+- Use the dashboard filters to explore movie performance across genres and release years.
+- Verify currency and financial units before presenting monetary figures as a specific currency.
+
+Specific genre rankings, correlations, and top-performing movie findings are not included because their verified numerical results have not been provided.
+
+### 8. Testing
+
+The project includes a Python pipeline validation script located at `Tests/test_pipeline.py`.
+
+The script checks:
+
+- Duplicate movie IDs.
+- Duplicate movie-genre pairs.
+- Missing required movie fields.
+- Valid numeric value ranges.
+- Matching Python and SQL revenue totals.
+- Matching fact records with movie dimension records.
+
+The test results are saved in `reports/test_results.csv`.
+
+The earlier test run passed the duplicate-key, required-field, revenue-total, and database-relationship checks. The value-range test initially needed correction because missing optional values were counted as invalid. The script was updated to handle missing optional values separately from invalid present values.
+
+The latest run of the corrected six-test script has not yet been confirmed. Therefore, the project does not claim that every test has passed.
+
+### 9. Limitations
+
+- Budget and revenue information is missing for many movie records.
+- Missing values can reduce the number of records available for financial analysis.
+- Financial currency and units have not been independently verified.
+- Genre analysis can contain overlapping movie counts because a movie may belong to multiple genres.
+- The Power BI sharing link requires sign-in; a public viewing link is unavailable because public publishing is disabled by the administrator.
+- The latest corrected pipeline test results still need confirmation.
+
+### 10. Conclusion
+
+The Movie Ratings and Box-Office Analysis project demonstrates how movie data can be processed, organized, validated, and presented using Python, Pandas, SQLite, SQL, and Power BI.
+
+The project successfully organizes movie information into a relational database and provides an interactive report with overview, genre analysis, and movie-level details. The matching Python and SQL revenue totals provide an important consistency check.
+
+Although missing financial information and other data limitations affect some comparisons, the project provides a structured foundation for exploring movie ratings and box-office performance.
+
+### 11. References
+
+1. Rounak Banik, **The Movies Dataset**, Kaggle.  
+   https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+
+2. The Movie Database (TMDB) — original movie metadata acknowledgement.
+
+3. GroupLens — ratings data acknowledgement.
+
+4. Python Documentation — https://docs.python.org/
+
+5. Pandas Documentation — https://pandas.pydata.org/docs/
+
+6. Microsoft Power BI Documentation — https://learn.microsoft.com/power-bi/
+
+7. SQLite Documentation — https://www.sqlite.org/docs.html
+
+**Dataset licence:** The Kaggle dataset page lists CC0: Public Domain. Refer to the dataset page for its licence and attribution information.
