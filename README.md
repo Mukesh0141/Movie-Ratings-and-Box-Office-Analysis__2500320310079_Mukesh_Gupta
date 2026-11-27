@@ -42,6 +42,7 @@ The valid-value-range test is being refined to distinguish missing optional valu
 - **SQLite** — relational database
 - **SQL** — database queries and validation
 - **Power BI Desktop** — interactive dashboard and reports
+- **Streamlit** — deployed interactive web application
 
 ## 5. Dashboard Pages
 
@@ -65,6 +66,8 @@ Movie_Ratings_and_Box-Office_Analysis/
 │   │   └── movie_genres.csv
 │   └── movies.db
 │
+├── app/
+│   └── streamlit_app.py
 ├── notebooks/
 ├── reports/
 │   └── test_results.csv
@@ -75,6 +78,7 @@ Movie_Ratings_and_Box-Office_Analysis/
 │   └── test_pipeline.py
 │
 ├── movie_box_analysis.pbix
+├── requirements.txt
 └── README.md
 ```
 
@@ -135,14 +139,13 @@ Open `movie_box_analysis.pbix` in Power BI Desktop. Use the report pages, slicer
 
 ## 9. Data Source
 
-**Dataset name:** The Movies Dataset  
-**Creator/uploader:** Rounak Banik  
-**Source:** [Kaggle — The Movies Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)  
-**Licence listed on Kaggle:** CC0: Public Domain
+**Dataset name:** [Add the actual dataset name]
 
-The dataset includes movie metadata and related ratings information. The project uses cleaned movie data in CSV format and a SQLite database. The dataset page acknowledges TMDB and GroupLens as original data sources. TMDB does not endorse or certify this dataset.
+**Original source:** [Add the original dataset website and URL]
 
-Please retain the dataset's attribution and licence information when redistributing or presenting the data.
+**Licence:** [Add the dataset licence or usage terms]
+
+The project uses cleaned movie data in CSV format and a SQLite database. The original dataset name, source URL, and licence have not yet been confirmed in this README.
 
 ## 10. Assumptions and Limitations
 
@@ -150,7 +153,7 @@ Please retain the dataset's attribution and licence information when redistribut
 - Financial analysis is limited to records for which the relevant financial information is available.
 - Revenue and budget values are reported in the currency/unit represented by the source data; confirm the source dataset's currency before interpreting them as USD.
 - Dashboard results depend on the completeness and accuracy of the source data.
-- A public Power BI link is not currently available. The report has been published to a Power BI workspace, but the available sharing link requires viewers to sign in.
+- The Power BI report is shared through a sign-in-required link. Viewers need a Power BI account and must sign in to access it; it is not publicly viewable without authentication.
 
 ## 11. AI Usage
 
@@ -164,13 +167,15 @@ Code and analysis outputs should be reviewed and verified against the actual pro
 
 ## 12. Demo
 
+**Streamlit web application:** [Open the live Movie Ratings and Box-Office Analysis app](https://movie-ratings-and-box-office-analysis.streamlit.app/)
+
+The Streamlit application is deployed on Streamlit Community Cloud. The live link was tested in an Incognito browser window and opened successfully.
+
 **Power BI report file:** `movie_box_analysis.pbix`
 
-**Public demo link:** Not available currently. The Power BI sharing link requires sign-in, and the account's Publish to web feature is disabled.
+**Power BI report:** [Open the Movie Ratings and Box-Office Analysis report](https://app.powerbi.com/links/o_JaE78iXo?ctid=3ad87f0e-1f93-41bd-94f4-82c37d971c88&pbi_source=linkShare&bookmarkGuid=b6cdf298-43aa-4f89-a26e-55178c855ceb)
 
-https://app.powerbi.com/links/o_JaE78iXo?ctid=3ad87f0e-1f93-41bd-94f4-82c37d971c88&pbi_source=linkShare&bookmarkGuid=b6cdf298-43aa-4f89-a26e-55178c855ceb
-
-This link only for whose has power bi account.
+**Access requirement:** This Power BI link is not public. Only viewers who have a Power BI account can access the report, and they must sign in first. The account's Publish to web feature is disabled.
 
 ## 13. Conclusion
 
